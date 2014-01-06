@@ -1,43 +1,52 @@
 <!DOCTYPE html>
-<!--
-    Licensed to the Apache Software Foundation (ASF) under one
-    or more contributor license agreements.  See the NOTICE file
-    distributed with this work for additional information
-    regarding copyright ownership.  The ASF licenses this file
-    to you under the Apache License, Version 2.0 (the
-    "License"); you may not use this file except in compliance
-    with the License.  You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing,
-    software distributed under the License is distributed on an
-    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
-     KIND, either express or implied.  See the License for the
-    specific language governing permissions and limitations
-    under the License.
--->
-<html>
+<html xmlns:ng="http://angularjs.org" lang="en" ng-app="myApp">
     <head>
         <meta charset="utf-8" />
         <meta name="format-detection" content="telephone=no" />
         <!-- WARNING: for iOS 7, remove the width=device-width and height=device-height attributes. See https://issues.apache.org/jira/browse/CB-4323 -->
         <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
+
+        <!-- Use the .min version of bootstrap files in production -->
+        <!-- Use the following if you want to use responsive design -->
         <link rel="stylesheet" type="text/css" href="css/index.css" />
-        <title>Hello World</title>
+
+        <link rel="stylesheet" type="text/css" href="css/mobile-nav.css" />
+        <link rel="stylesheet" type="text/css" href="css/topcoat-mobile-light.css">
+
+        <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.3.0/pure-min.css">
+        <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+        <link rel="stylesheet" type="text/css" href="css/bootstrap.columns.css">
+        <link rel="stylesheet" type="text/css" href="css/bootstrap.glyphicon.css">
+        <link rel="stylesheet" type="text/css" href="css/bootstrap.theme.css">
+
+        <title>myVerein.de</title>
     </head>
+    
     <body>
-        <div class="app">
-            <h1>Apache Cordova</h1>
-            <div id="deviceready" class="blink">
-                <p class="event listening">Connecting to Device</p>
-                <p class="event received">Device is Ready</p>
-            </div>
-        </div>
+        <!-- The following tag is in place of ng-view to use the angular mobile view navigation framework
+            https://github.com/ajoslin/angular-mobile-nav
+        -->
+        <mobile-view/>
+
+         <!--Comment out the following 2 lines to test on the browser-->
         <script type="text/javascript" src="cordova.js"></script>
         <script type="text/javascript" src="js/index.js"></script>
-        <script type="text/javascript">
-            app.initialize();
-        </script>
+        
+        <!-- In production use min versions -->
+        <script src="lib/angular.js"  type="text/javascript"></script>
+        <script src="lib/angular-mobile.js" type="text/javascript"></script>
+        <script src="lib/mobile-nav.js" type="text/javascript"></script>
+        <script src="lib/jquery.min.js" type="text/javascript"></script>
+        <script src="lib/bootstrap.min.js" type="text/javascript"></script>
+
+        <script src="js/app.js"  type="text/javascript"></script>
+        <script src="js/services.js" type="text/javascript"></script>
+        <script src="js/controllers.js" type="text/javascript"></script>
+        <script src="js/filters.js" type="text/javascript"></script>
+        <script src="js/directives.js" type="text/javascript"></script>
+
+        <!--<script type="text/javascript">-->
+            <!--app.initialize();-->
+        <!--</script>-->
     </body>
 </html>

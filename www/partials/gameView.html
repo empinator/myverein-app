@@ -1,0 +1,33 @@
+<mv-header title="Spiele"></mv-header>
+
+
+<div ng-controller="GameController">
+    <ul class="gamelist list-unstyled">
+        <li class="click-active" ng-class-odd="'bg-odd'" ng-repeat="item in items" >
+            <div class="gamelist-item"  >
+                <div class="liga">{{item.liga}}</div>
+                <div class="paarung" ng-click="slidePage('/game/{{item.id}}')">
+                    <div style="float:left;" class="team">
+                        <span>{{item.heim}}</span>
+                    </div>
+                    <div style="float:left;" class="date">
+                        <div class="day">{{item.start | date:'dd.MM.yy'}}</div>
+                        <div class="time">{{item.start | date:'HH:mm'}}</div>
+                    </div>
+                    <div style="float:left;" class="team">
+                        <span>{{item.gast}}</span>
+                    </div>
+                    <div style="clear: both;"></div>
+                </div>
+            </div>
+
+        </li>
+        <li class="click-active">
+            <div class="gamelist-item" ng-click="loadNext()">
+                nächsten {{size}}
+            </div>
+        </li>
+    </ul>
+</div>
+
+<ng-include src="'partials/settingsOverlay.html'"></ng-include>

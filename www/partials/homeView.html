@@ -1,0 +1,17 @@
+
+<mv-header title="Mannschaften"></mv-header>
+
+<div class="topcoat-list__container list">
+    <ul class="nav nav-pills nav-stacked">
+        <li class="click-active" ng-click="slidePage('/games/1')">
+            <a>Meine Spiele</a>
+        </li>
+        <li class="click-active" ng-click="slidePage('/games/1')">
+            <a>Meine Spiele</a>
+        </li>
+        <li class="click-active" ng-repeat="t in teams" ng-click="slidePage('/games/{{t.id}}/1')">
+            <a>{{t.name}}</a>
+        </li>
+    </ul>
+</div>
+<ng-include src="'partials/settingsOverlay.html'"></ng-include>

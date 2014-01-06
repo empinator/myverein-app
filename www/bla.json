@@ -1,0 +1,7958 @@
+{
+
+	"message": "SUCCESS",
+	"games": [
+		{
+			"id": 61966,
+			"start": "Sep 28, 2013 5:30:00 PM",
+			"heim": "MTV München 1",
+			"gast": "MTV München 2",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 61967,
+					"name": "ANS",
+					"gruppe": "KG Herren 3",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 61968,
+					"name": "CLO",
+					"gruppe": "KG Herren 3",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 61969,
+					"name": "24s",
+					"gruppe": "KG Herren 3",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 67398,
+			"start": "Sep 29, 2013 10:00:00 AM",
+			"heim": "MTV München",
+			"gast": "FC Bayern München 3",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 67399,
+					"name": "ANS",
+					"gruppe": "KG U18 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 67400,
+					"name": "CLO",
+					"gruppe": "KG U18 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 67401,
+					"name": "24s",
+					"gruppe": "KG U18 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62566,
+			"start": "Oct 5, 2013 10:00:00 AM",
+			"heim": "MTV München (u19w) a.K.",
+			"gast": "DJK Landsberg 2",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62569,
+					"name": "24s",
+					"gruppe": "KG Damen 1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62568,
+					"name": "CLO",
+					"gruppe": "KG Damen 1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62567,
+					"name": "ANS",
+					"gruppe": "KG Damen 1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 92575,
+					"name": "SR1",
+					"executor": {
+						"name": "Koldere, Kenan",
+						"email": "http://www.gravatar.com/avatar/bddf65b54ebfe265f85b33c5e70ef106?d=mm",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 67326,
+			"start": "Oct 5, 2013 12:30:00 PM",
+			"heim": "MTV 1879 München",
+			"gast": "TSV Weilheim",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 67327,
+					"name": "ANS",
+					"gruppe": "KG U17 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 67328,
+					"name": "CLO",
+					"gruppe": "KG U17 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 67329,
+					"name": "24s",
+					"gruppe": "KG U17 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62166,
+			"start": "Oct 5, 2013 2:30:00 PM",
+			"heim": "TSV Unterhaching",
+			"gast": "MTV München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Lise-Meitner-Gymnasium",
+			"jobs": [ ]
+		},
+		{
+			"id": 62326,
+			"start": "Oct 5, 2013 3:00:00 PM",
+			"heim": "MTV München",
+			"gast": "SV Polling",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62327,
+					"name": "ANS",
+					"gruppe": "KG U15 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62328,
+					"name": "CLO",
+					"gruppe": "KG U15 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62329,
+					"name": "24s",
+					"gruppe": "KG U15 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 70806,
+			"start": "Oct 5, 2013 3:00:00 PM",
+			"heim": "MTSV Schwabing 2",
+			"gast": "TS Jahn München 3",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Morawitzkyhalle",
+			"jobs": [
+				{
+					"id": 103298,
+					"name": "SR2",
+					"executor": {
+						"name": "Germeroth, Jana",
+						"email": "http://www.gravatar.com/avatar/afc6f3ccb2b6133663186b21b592ed85?d=mm",
+						"type": "EXTERN"
+					}
+				},
+				{
+					"id": 103300,
+					"name": "SR1",
+					"executor": {
+						"name": "Asemissen, Hans Christian",
+						"email": "http://www.gravatar.com/avatar/31d4051692b95574420db2a1cb04f3c0?d=mm",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 61950,
+			"start": "Oct 5, 2013 5:00:00 PM",
+			"heim": "TSV München Ost 3",
+			"gast": "MTV München 2",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle München-Ost",
+			"jobs": [ ]
+		},
+		{
+			"id": 62374,
+			"start": "Oct 5, 2013 5:30:00 PM",
+			"heim": "MTV 1879 München",
+			"gast": "TSV Jahn Freising",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62377,
+					"name": "24s",
+					"gruppe": "KG U19 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62376,
+					"name": "CLO",
+					"gruppe": "KG U19 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62375,
+					"name": "ANS",
+					"gruppe": "KG U19 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 103065,
+					"name": "SR2",
+					"executor": {
+						"name": "Blanz, Dominik",
+						"email": "http://www.gravatar.com/avatar/afc6f3ccb2b6133663186b21b592ed85?d=mm",
+						"type": "EXTERN"
+					}
+				},
+				{
+					"id": 103067,
+					"name": "SR1",
+					"executor": {
+						"name": "Haucke, Bernhard",
+						"email": "http://www.gravatar.com/avatar/ed52a6e08c347cdd2932c3a88c3bcf0e?d=mm",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 70750,
+			"start": "Oct 5, 2013 5:30:00 PM",
+			"heim": "MTSV Schwabing",
+			"gast": "SV Mammendorf",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Morawitzkyhalle",
+			"jobs": [
+				{
+					"id": 103252,
+					"name": "SR2",
+					"executor": {
+						"name": "Germeroth, Jana",
+						"email": "http://www.gravatar.com/avatar/afc6f3ccb2b6133663186b21b592ed85?d=mm",
+						"type": "EXTERN"
+					}
+				},
+				{
+					"id": 103254,
+					"name": "SR1",
+					"executor": {
+						"name": "Asemissen, Hans Christian",
+						"email": "http://www.gravatar.com/avatar/31d4051692b95574420db2a1cb04f3c0?d=mm",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 67130,
+			"start": "Oct 6, 2013 11:15:00 AM",
+			"heim": "ESV Staffelsee",
+			"gast": "MTV München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Staffelsee-Gymnasium",
+			"jobs": [ ]
+		},
+		{
+			"id": 67478,
+			"start": "Oct 6, 2013 12:30:00 PM",
+			"heim": "MTV München",
+			"gast": "DJK Landsberg",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 67479,
+					"name": "ANS",
+					"gruppe": "KG Damen 2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 67480,
+					"name": "CLO",
+					"gruppe": "KG Damen 2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 67481,
+					"name": "24s",
+					"gruppe": "KG Damen 2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 61686,
+			"start": "Oct 6, 2013 2:30:00 PM",
+			"heim": "SB DJK Rosenheim",
+			"gast": "MTV München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Wolfgang-Pohle-Halle",
+			"jobs": [ ]
+		},
+		{
+			"id": 66232,
+			"start": "Oct 6, 2013 5:30:00 PM",
+			"heim": "MTV München",
+			"gast": "TSV Grünwald",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 66235,
+					"name": "24s",
+					"gruppe": "KG Herren 1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 66234,
+					"name": "CLO",
+					"gruppe": "KG Herren 1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 66233,
+					"name": "ANS",
+					"gruppe": "KG Herren 1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 95178,
+					"name": "SR1",
+					"executor": {
+						"name": "März, Benjamin",
+						"email": "http://www.gravatar.com/avatar/3ead837ba35bbee2cb4b77fd5abc015f?d=mm",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 95179,
+					"name": "SR2",
+					"executor": {
+						"name": "Wildemann, Markus",
+						"email": "http://www.gravatar.com/avatar/f19fa7264c38094cf0d610a17c9dd176?d=mm",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62158,
+			"start": "Oct 6, 2013 6:00:00 PM",
+			"heim": "SpVgg Höhenkirchen",
+			"gast": "MTV München 4",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Gymnasium Höhenkirchen-Siegertsbrunn",
+			"jobs": [
+				{
+					"id": 92969,
+					"name": "SR2",
+					"executor": {
+						"name": "Stephan Kissel",
+						"email": "http://www.gravatar.com/avatar/8e817c1358d03c68c4603db8d7d1be81?d=mm",
+						"type": "EXTERN"
+					}
+				},
+				{
+					"id": 92971,
+					"name": "SR1",
+					"executor": {
+						"name": "Zdrilic, Gordan",
+						"email": "http://www.gravatar.com/avatar/3de31a86a4c6b8008f161635e01a2930?d=mm",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 61878,
+			"start": "Oct 7, 2013 8:00:00 PM",
+			"heim": "SV Allianz München",
+			"gast": "MTV München 1",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Allianz Sportzentrum",
+			"jobs": [ ]
+		},
+		{
+			"id": 67702,
+			"start": "Oct 9, 2013 8:30:00 PM",
+			"heim": "MTSV Schwabing 3",
+			"gast": "München Basket 2",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTSV Schwabing",
+			"jobs": [
+				{
+					"id": 88954,
+					"name": "SR2",
+					"executor": {
+						"name": "Madl, Christian",
+						"email": "http://www.gravatar.com/avatar/cb7f4bfab2efc7010c5b5b3ed5190321?d=mm",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 88956,
+					"name": "SR1",
+					"executor": {
+						"name": "Golic, Bastian",
+						"email": "http://www.gravatar.com/avatar/9072e69006bb85c243b9cc2fba4a441c?d=mm",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62614,
+			"start": "Oct 12, 2013 12:00:00 AM",
+			"heim": "MTV München",
+			"gast": "TG Landshut",
+			"liga": "U12 Bayernliga Südost",
+			"jobs": [
+				{
+					"id": 62617,
+					"name": "24s",
+					"gruppe": "KG U15 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62616,
+					"name": "CLO",
+					"gruppe": "KG U15 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62615,
+					"name": "ANS",
+					"gruppe": "KG U15 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 93585,
+					"name": "SR1",
+					"executor": {
+						"name": "Zenk, Barbara",
+						"email": "http://www.gravatar.com/avatar/575f9fedc2fd9c44ee222d18041a3537?d=mm",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 93586,
+					"name": "SR2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 66168,
+			"start": "Oct 12, 2013 10:00:00 AM",
+			"heim": "TSV Ottobrunn",
+			"gast": "MTV München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Gymnasium",
+			"jobs": [ ]
+		},
+		{
+			"id": 103261,
+			"start": "Oct 12, 2013 10:00:00 AM",
+			"heim": "TSV München Ost",
+			"gast": "TV Dingolfing",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle München-Ost",
+			"jobs": [
+				{
+					"id": 103262,
+					"name": "SR1",
+					"executor": {
+						"name": "Madl, Christian",
+						"email": "http://www.gravatar.com/avatar/cb7f4bfab2efc7010c5b5b3ed5190321?d=mm",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 103264,
+					"name": "SR2",
+					"executor": {
+						"name": "Altaner, Johannes",
+						"email": "http://www.gravatar.com/avatar/afc6f3ccb2b6133663186b21b592ed85?d=mm",
+						"type": "EXTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62222,
+			"start": "Oct 12, 2013 12:45:00 PM",
+			"heim": "MTV München",
+			"gast": "TS Jahn München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62223,
+					"name": "ANS",
+					"gruppe": "KG U15 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62224,
+					"name": "CLO",
+					"gruppe": "KG U15 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62225,
+					"name": "24s",
+					"gruppe": "KG U15 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 69142,
+			"start": "Oct 12, 2013 2:15:00 PM",
+			"heim": "ASV Rott am Inn",
+			"gast": "MTV München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Schalterhalle",
+			"jobs": [ ]
+		},
+		{
+			"id": 61654,
+			"start": "Oct 12, 2013 4:00:00 PM",
+			"heim": "VfR Garching",
+			"gast": "MTV München (u20) a. K.",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "WHG Sporthalle",
+			"jobs": [ ]
+		},
+		{
+			"id": 62022,
+			"start": "Oct 12, 2013 4:45:00 PM",
+			"heim": "SV Mammendorf",
+			"gast": "MTV 1879 München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Mehrzweckhalle",
+			"jobs": [
+				{
+					"id": 102985,
+					"name": "SR1",
+					"executor": {
+						"name": "Baumeister, Michael",
+						"email": "http://www.gravatar.com/avatar/afc6f3ccb2b6133663186b21b592ed85?d=mm",
+						"type": "EXTERN"
+					}
+				},
+				{
+					"id": 102987,
+					"name": "SR2",
+					"executor": {
+						"name": "Baumeister, Horst",
+						"email": "http://www.gravatar.com/avatar/afc6f3ccb2b6133663186b21b592ed85?d=mm",
+						"type": "EXTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 67194,
+			"start": "Oct 13, 2013 9:30:00 AM",
+			"heim": "TSV München-Forstenried",
+			"gast": "MTV 1879 München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Schulzentrum",
+			"jobs": [ ]
+		},
+		{
+			"id": 67162,
+			"start": "Oct 13, 2013 10:00:00 AM",
+			"heim": "TSV Vaterstetten",
+			"gast": "MTV München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Realschule Baldham",
+			"jobs": [ ]
+		},
+		{
+			"id": 70610,
+			"start": "Oct 13, 2013 10:00:00 AM",
+			"heim": "MTSV Schwabing",
+			"gast": "DJK SB München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Morawitzkyhalle",
+			"jobs": [
+				{
+					"id": 103308,
+					"name": "SR1",
+					"executor": {
+						"name": "Kirsch, Konstantin",
+						"email": "http://www.gravatar.com/avatar/31009aad1e6ed555b59990ad393002ad?d=mm",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 103310,
+					"name": "SR2",
+					"executor": {
+						"name": "Asemissen, Hans Christian",
+						"email": "http://www.gravatar.com/avatar/31d4051692b95574420db2a1cb04f3c0?d=mm",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 87654,
+			"start": "Oct 13, 2013 6:30:00 PM",
+			"heim": "TS Jahn München",
+			"gast": "SV Allianz München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle TS Jahn München",
+			"jobs": [
+				{
+					"id": 88584,
+					"name": "SR2",
+					"executor": {
+						"name": "Maier, Theresa",
+						"email": "http://www.gravatar.com/avatar/217809e94888b15e02fc22a7e421b478?d=mm",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 88586,
+					"name": "SR1",
+					"executor": {
+						"name": "Pflieger, Iris",
+						"email": "http://www.gravatar.com/avatar/6c9611e83fc4348910c0ff3dc954e9aa?d=mm",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 61694,
+			"start": "Oct 19, 2013 1:45:00 PM",
+			"heim": "TuS Bad Aibling",
+			"gast": "MTV München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Sporthalle US CAMP",
+			"jobs": [ ]
+		},
+		{
+			"id": 61630,
+			"start": "Oct 19, 2013 3:30:00 PM",
+			"heim": "SV Bad Tölz",
+			"gast": "MTV München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Gabriel-v-Seidl-Gymnasium",
+			"jobs": [ ]
+		},
+		{
+			"id": 62382,
+			"start": "Oct 19, 2013 5:30:00 PM",
+			"heim": "MTV 1879 München",
+			"gast": "FC Bayern München 3",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62385,
+					"name": "24s",
+					"gruppe": "KG Herren 2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62384,
+					"name": "CLO",
+					"gruppe": "KG Herren 2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62383,
+					"name": "ANS",
+					"gruppe": "KG Herren 2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 103075,
+					"name": "SR1",
+					"executor": {
+						"name": "Linardou, Dimitrios",
+						"email": "http://www.gravatar.com/avatar/afc6f3ccb2b6133663186b21b592ed85?d=mm",
+						"type": "EXTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 61886,
+			"start": "Oct 19, 2013 6:00:00 PM",
+			"heim": "TSV München Ost 3",
+			"gast": "MTV München 1",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle München-Ost",
+			"jobs": [ ]
+		},
+		{
+			"id": 67114,
+			"start": "Oct 20, 2013 10:00:00 AM",
+			"heim": "TS Jahn München 3",
+			"gast": "MTV München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle TS Jahn München",
+			"jobs": [ ]
+		},
+		{
+			"id": 69198,
+			"start": "Oct 20, 2013 10:00:00 AM",
+			"heim": "MTV München",
+			"gast": "TS Jahn München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 69199,
+					"name": "ANS",
+					"gruppe": "KG U13 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 69200,
+					"name": "CLO",
+					"gruppe": "KG U13 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 69201,
+					"name": "24s",
+					"gruppe": "KG U13 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 67202,
+			"start": "Oct 20, 2013 11:15:00 AM",
+			"heim": "ESV Staffelsee",
+			"gast": "MTV 1879 München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Staffelsee-Gymnasium",
+			"jobs": [ ]
+		},
+		{
+			"id": 61774,
+			"start": "Oct 20, 2013 12:15:00 PM",
+			"heim": "SC Vierkirchen",
+			"gast": "MTV München 2",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Mehrzweckhalle Vierkirchen",
+			"jobs": [ ]
+		},
+		{
+			"id": 62270,
+			"start": "Oct 20, 2013 12:30:00 PM",
+			"heim": "MTV München",
+			"gast": "TuS Fürstenfeldbruck",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62273,
+					"name": "24s",
+					"gruppe": "KG Herren 3",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62272,
+					"name": "CLO",
+					"gruppe": "KG Herren 3",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62271,
+					"name": "ANS",
+					"gruppe": "KG Herren 3",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 103059,
+					"name": "SR1",
+					"executor": {
+						"name": "Schmidt, Kilian",
+						"email": "http://www.gravatar.com/avatar/afc6f3ccb2b6133663186b21b592ed85?d=mm",
+						"type": "EXTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 87702,
+			"start": "Oct 20, 2013 1:15:00 PM",
+			"heim": "TSV Oberhaching 3",
+			"gast": "TSV Unterhaching 2",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Kyberghalle",
+			"jobs": [
+				{
+					"id": 88744,
+					"name": "SR2",
+					"executor": {
+						"name": "Markou, Philippos",
+						"email": "http://www.gravatar.com/avatar/1d58541943be22d00d3e51191c3aabbe?d=mm",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 88746,
+					"name": "SR1",
+					"executor": {
+						"name": "Asemissen, Hans Christian",
+						"email": "http://www.gravatar.com/avatar/31d4051692b95574420db2a1cb04f3c0?d=mm",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 87792,
+			"start": "Oct 20, 2013 1:45:00 PM",
+			"heim": "TuS Fürstenfeldbruck 2",
+			"gast": "DJK Landsberg 2",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Graf-Rasso-Gymnasium",
+			"jobs": [
+				{
+					"id": 88934,
+					"name": "SR2",
+					"executor": {
+						"name": "Maier, Theresa",
+						"email": "http://www.gravatar.com/avatar/217809e94888b15e02fc22a7e421b478?d=mm",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 88936,
+					"name": "SR1",
+					"executor": {
+						"name": "Pflieger, Iris",
+						"email": "http://www.gravatar.com/avatar/6c9611e83fc4348910c0ff3dc954e9aa?d=mm",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 103317,
+			"start": "Oct 20, 2013 3:15:00 PM",
+			"heim": "TSV 1865 Dachau 2",
+			"gast": "TSV 1860 Rosenheim",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Jahnhalle",
+			"jobs": [
+				{
+					"id": 103318,
+					"name": "SR1",
+					"executor": {
+						"name": "März, Benjamin",
+						"email": "http://www.gravatar.com/avatar/3ead837ba35bbee2cb4b77fd5abc015f?d=mm",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 103320,
+					"name": "SR2",
+					"executor": {
+						"name": "Kammermeier, Simon",
+						"email": "http://www.gravatar.com/avatar/afc6f3ccb2b6133663186b21b592ed85?d=mm",
+						"type": "EXTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 63998,
+			"start": "Oct 20, 2013 5:30:00 PM",
+			"heim": "TSV 1865 Dachau 3",
+			"gast": "FC Bayern München 4",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Jahnhalle",
+			"jobs": [
+				{
+					"id": 100980,
+					"name": "SR2",
+					"executor": {
+						"name": "Kammermeier, Simon",
+						"email": "http://www.gravatar.com/avatar/afc6f3ccb2b6133663186b21b592ed85?d=mm",
+						"type": "EXTERN"
+					}
+				},
+				{
+					"id": 100982,
+					"name": "SR1",
+					"executor": {
+						"name": "März, Benjamin",
+						"email": "http://www.gravatar.com/avatar/3ead837ba35bbee2cb4b77fd5abc015f?d=mm",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 61958,
+			"start": "Oct 20, 2013 7:30:00 PM",
+			"heim": "TSV Jahn Freising 2",
+			"gast": "MTV München 2",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Realschule Düwellstr.",
+			"jobs": [ ]
+		},
+		{
+			"id": 87742,
+			"start": "Oct 20, 2013 7:30:00 PM",
+			"heim": "TSV München Ost 4",
+			"gast": "TSV Trudering",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle München-Ost",
+			"jobs": [
+				{
+					"id": 88794,
+					"name": "SR2",
+					"executor": {
+						"name": "Markou, Philippos",
+						"email": "http://www.gravatar.com/avatar/1d58541943be22d00d3e51191c3aabbe?d=mm",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 88796,
+					"name": "SR1",
+					"executor": {
+						"name": "Asemissen, Hans Christian",
+						"email": "http://www.gravatar.com/avatar/31d4051692b95574420db2a1cb04f3c0?d=mm",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62726,
+			"start": "Oct 20, 2013 7:45:00 PM",
+			"heim": "MTV München 3",
+			"gast": "FC Anadolu",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62727,
+					"name": "ANS",
+					"gruppe": "KG Damen 1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62728,
+					"name": "CLO",
+					"gruppe": "KG Damen 1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62729,
+					"name": "24s",
+					"gruppe": "KG Damen 1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 67266,
+			"start": "Oct 26, 2013 12:45:00 PM",
+			"heim": "München Basket",
+			"gast": "MTV München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Sporthalle Dachauer Str.",
+			"jobs": [ ]
+		},
+		{
+			"id": 67122,
+			"start": "Oct 26, 2013 1:00:00 PM",
+			"heim": "TSV Weilheim",
+			"gast": "MTV München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "W.-C.-Röntgen-Mittelschule",
+			"jobs": [ ]
+		},
+		{
+			"id": 62350,
+			"start": "Oct 27, 2013 12:30:00 PM",
+			"heim": "MTV München",
+			"gast": "DJK Landsberg",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62351,
+					"name": "ANS",
+					"gruppe": "KG Herren 3",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62352,
+					"name": "CLO",
+					"gruppe": "KG Herren 3",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62353,
+					"name": "24s",
+					"gruppe": "KG Herren 3",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62734,
+			"start": "Oct 27, 2013 3:00:00 PM",
+			"heim": "MTV München 3",
+			"gast": "BC Hellenen München 3",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62735,
+					"name": "ANS",
+					"gruppe": "KG U17 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62736,
+					"name": "CLO",
+					"gruppe": "KG U17 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62737,
+					"name": "24s",
+					"gruppe": "KG U17 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62438,
+			"start": "Oct 27, 2013 5:30:00 PM",
+			"heim": "MTV München 1",
+			"gast": "TSV Ismaning",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62439,
+					"name": "ANS",
+					"gruppe": "KG Herren 2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62440,
+					"name": "CLO",
+					"gruppe": "KG Herren 2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62441,
+					"name": "24s",
+					"gruppe": "KG Herren 2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62502,
+			"start": "Oct 27, 2013 7:45:00 PM",
+			"heim": "MTV München 2",
+			"gast": "TSV 1860 München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62503,
+					"name": "ANS",
+					"gruppe": "KG Herren 1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62504,
+					"name": "CLO",
+					"gruppe": "KG Herren 1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62505,
+					"name": "24s",
+					"gruppe": "KG Herren 1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 95511,
+			"start": "Nov 3, 2013 2:00:00 PM",
+			"heim": "TSV 1884 Wolnzach",
+			"gast": "MTV München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Hallertau-Gymnasium",
+			"jobs": [ ]
+		},
+		{
+			"id": 62454,
+			"start": "Nov 3, 2013 5:30:00 PM",
+			"heim": "MTV München 1",
+			"gast": "TS Jahn München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62455,
+					"name": "ANS",
+					"gruppe": "KG Herren 2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62456,
+					"name": "CLO",
+					"gruppe": "KG Herren 2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62457,
+					"name": "24s",
+					"gruppe": "KG Herren 2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62534,
+			"start": "Nov 3, 2013 7:45:00 PM",
+			"heim": "MTV München 2",
+			"gast": "TSV Ismaning",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62535,
+					"name": "ANS",
+					"gruppe": "KG Herren 1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62536,
+					"name": "CLO",
+					"gruppe": "KG Herren 1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62537,
+					"name": "24s",
+					"gruppe": "KG Herren 1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 61734,
+			"start": "Nov 9, 2013 10:00:00 AM",
+			"heim": "TSV Jahn Freising",
+			"gast": "MTV München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Realschule Düwellstr.",
+			"jobs": [ ]
+		},
+		{
+			"id": 67334,
+			"start": "Nov 9, 2013 10:00:00 AM",
+			"heim": "MTV 1879 München",
+			"gast": "SV Germering",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 67335,
+					"name": "ANS",
+					"gruppe": "KG U15 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 67336,
+					"name": "CLO",
+					"gruppe": "KG U15 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 67337,
+					"name": "24s",
+					"gruppe": "KG U15 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62230,
+			"start": "Nov 9, 2013 12:45:00 PM",
+			"heim": "MTV München",
+			"gast": "TSV Wasserburg",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62231,
+					"name": "ANS",
+					"gruppe": "KG U16 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62232,
+					"name": "CLO",
+					"gruppe": "KG U16 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62233,
+					"name": "24s",
+					"gruppe": "KG U16 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62086,
+			"start": "Nov 9, 2013 3:00:00 PM",
+			"heim": "München Basket 2",
+			"gast": "MTV München (u19w) a.K.",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Sporthalle Dachauer Str.",
+			"jobs": [ ]
+		},
+		{
+			"id": 62622,
+			"start": "Nov 9, 2013 3:00:00 PM",
+			"heim": "MTV München",
+			"gast": "MTSV Schwabing",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62625,
+					"name": "24s",
+					"gruppe": "KG Herren 4",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62624,
+					"name": "CLO",
+					"gruppe": "KG Herren 4",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62623,
+					"name": "ANS",
+					"gruppe": "KG Herren 4",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 93589,
+					"name": "SR1",
+					"executor": {
+						"name": "Zenk, Barbara",
+						"email": "http://www.gravatar.com/avatar/575f9fedc2fd9c44ee222d18041a3537?d=mm",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 93590,
+					"name": "SR2",
+					"executor": {
+						"name": "Gärtner, Kristin",
+						"email": "http://www.gravatar.com/avatar/13a4f0f36e97d098815a9510a60abd27?d=mm",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 87734,
+			"start": "Nov 9, 2013 4:45:00 PM",
+			"heim": "TSV Unterhaching 2",
+			"gast": "TSV Trudering",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Lise-Meitner-Gymnasium",
+			"jobs": [
+				{
+					"id": 88784,
+					"name": "SR2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 88786,
+					"name": "SR1",
+					"executor": {
+						"name": "Asemissen, Hans Christian",
+						"email": "http://www.gravatar.com/avatar/31d4051692b95574420db2a1cb04f3c0?d=mm",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62030,
+			"start": "Nov 9, 2013 5:00:00 PM",
+			"heim": "SB DJK Rosenheim",
+			"gast": "MTV 1879 München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Gabor-Halle",
+			"jobs": [
+				{
+					"id": 102995,
+					"name": "SR2",
+					"executor": {
+						"name": "Schumm, Peter",
+						"email": "http://www.gravatar.com/avatar/afc6f3ccb2b6133663186b21b592ed85?d=mm",
+						"type": "EXTERN"
+					}
+				},
+				{
+					"id": 102997,
+					"name": "SR1",
+					"executor": {
+						"name": "Hartmannsgruber, Philipp",
+						"email": "http://www.gravatar.com/avatar/afc6f3ccb2b6133663186b21b592ed85?d=mm",
+						"type": "EXTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62670,
+			"start": "Nov 9, 2013 5:30:00 PM",
+			"heim": "MTV München 2",
+			"gast": "TSV Ismaning",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62671,
+					"name": "ANS",
+					"gruppe": "KG U15 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62672,
+					"name": "CLO",
+					"gruppe": "KG U15 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62673,
+					"name": "24s",
+					"gruppe": "KG U15 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 70018,
+			"start": "Nov 9, 2013 5:30:00 PM",
+			"heim": "BC Hellenen München",
+			"gast": "MTSV Schwabing 2",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Städt. Sporthalle Albrechtstr.",
+			"jobs": [
+				{
+					"id": 103242,
+					"name": "SR2",
+					"executor": {
+						"name": "Hennrich, Alexander",
+						"email": "http://www.gravatar.com/avatar/afc6f3ccb2b6133663186b21b592ed85?d=mm",
+						"type": "EXTERN"
+					}
+				},
+				{
+					"id": 103244,
+					"name": "SR1",
+					"executor": {
+						"name": "Markovic, Aleksandar",
+						"email": "http://www.gravatar.com/avatar/afc6f3ccb2b6133663186b21b592ed85?d=mm",
+						"type": "EXTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 61838,
+			"start": "Nov 9, 2013 7:45:00 PM",
+			"heim": "TSV Haar",
+			"gast": "MTV München 3",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Sportpark Eglfing",
+			"jobs": [ ]
+		},
+		{
+			"id": 62446,
+			"start": "Nov 9, 2013 7:45:00 PM",
+			"heim": "MTV München 1",
+			"gast": "TSV 1860 München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62447,
+					"name": "ANS",
+					"gruppe": "KG Damen 2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62448,
+					"name": "CLO",
+					"gruppe": "KG Damen 2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62449,
+					"name": "24s",
+					"gruppe": "KG Damen 2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 67414,
+			"start": "Nov 10, 2013 9:30:00 AM",
+			"heim": "SV Germering",
+			"gast": "MTV München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Max-Born-Gymnasium",
+			"jobs": [
+				{
+					"id": 67415,
+					"name": "ANS",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 67416,
+					"name": "CLO",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 67417,
+					"name": "24s",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 66176,
+			"start": "Nov 10, 2013 11:45:00 AM",
+			"heim": "TS Jahn München 2",
+			"gast": "MTV München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Trainingshalle TS Jahn München",
+			"jobs": [ ]
+		},
+		{
+			"id": 71502,
+			"start": "Nov 10, 2013 12:15:00 PM",
+			"heim": "FC Bayern München 3",
+			"gast": "TuS Fürstenfeldbruck",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle FC Bayern",
+			"jobs": [
+				{
+					"id": 103235,
+					"name": "SR2",
+					"executor": {
+						"name": "Gegenfurtner, Korbinian",
+						"email": "http://www.gravatar.com/avatar/afc6f3ccb2b6133663186b21b592ed85?d=mm",
+						"type": "EXTERN"
+					}
+				},
+				{
+					"id": 103237,
+					"name": "SR1",
+					"executor": {
+						"name": "Zenk, Barbara",
+						"email": "http://www.gravatar.com/avatar/575f9fedc2fd9c44ee222d18041a3537?d=mm",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 103285,
+			"start": "Nov 10, 2013 1:30:00 PM",
+			"heim": "TS Jahn München",
+			"gast": "TV Dingolfing ",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Sporthalle Hochstr.",
+			"jobs": [
+				{
+					"id": 103286,
+					"name": "SR1",
+					"executor": {
+						"name": "Madl, Christian",
+						"email": "http://www.gravatar.com/avatar/cb7f4bfab2efc7010c5b5b3ed5190321?d=mm",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 103288,
+					"name": "SR2",
+					"executor": {
+						"name": "Linardou, Dimitrios",
+						"email": "http://www.gravatar.com/avatar/afc6f3ccb2b6133663186b21b592ed85?d=mm",
+						"type": "EXTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 65182,
+			"start": "Nov 10, 2013 2:30:00 PM",
+			"heim": "FC Bayern München 3",
+			"gast": "TSV Jahn Freising",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle FC Bayern",
+			"jobs": [
+				{
+					"id": 103198,
+					"name": "SR2",
+					"executor": {
+						"name": "Gegenfurtner, Korbinian",
+						"email": "http://www.gravatar.com/avatar/afc6f3ccb2b6133663186b21b592ed85?d=mm",
+						"type": "EXTERN"
+					}
+				},
+				{
+					"id": 103200,
+					"name": "SR1",
+					"executor": {
+						"name": "Zenk, Barbara",
+						"email": "http://www.gravatar.com/avatar/575f9fedc2fd9c44ee222d18041a3537?d=mm",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 103273,
+			"start": "Nov 10, 2013 3:45:00 PM",
+			"heim": "TS Jahn München 2",
+			"gast": "TV Dingolfing",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Sporthalle Hochstr.",
+			"jobs": [
+				{
+					"id": 103274,
+					"name": "SR1",
+					"executor": {
+						"name": "Madl, Christian",
+						"email": "http://www.gravatar.com/avatar/cb7f4bfab2efc7010c5b5b3ed5190321?d=mm",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 103276,
+					"name": "SR2",
+					"executor": {
+						"name": "Linardou, Dimitrios",
+						"email": "http://www.gravatar.com/avatar/afc6f3ccb2b6133663186b21b592ed85?d=mm",
+						"type": "EXTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62510,
+			"start": "Nov 10, 2013 7:45:00 PM",
+			"heim": "MTV München 2",
+			"gast": "BC Hellenen München 2",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62513,
+					"name": "24s",
+					"gruppe": "KG U18 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62512,
+					"name": "CLO",
+					"gruppe": "KG U18 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62511,
+					"name": "ANS",
+					"gruppe": "KG U18 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62630,
+			"start": "Nov 16, 2013 10:00:00 AM",
+			"heim": "MTV München",
+			"gast": "SV Bad Tölz",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62633,
+					"name": "24s",
+					"gruppe": "KG U19 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62632,
+					"name": "CLO",
+					"gruppe": "KG U19 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62631,
+					"name": "ANS",
+					"gruppe": "KG U19 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 93593,
+					"name": "SR1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 93594,
+					"name": "SR2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 69150,
+			"start": "Nov 16, 2013 10:00:00 AM",
+			"heim": "TuS Fürstenfeldbruck",
+			"gast": "MTV München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Graf-Rasso-Gymnasium",
+			"jobs": [ ]
+		},
+		{
+			"id": 61702,
+			"start": "Nov 16, 2013 12:30:00 PM",
+			"heim": "TSV Neuötting",
+			"gast": "MTV München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Max-Fellermeier-Volksschule",
+			"jobs": [ ]
+		},
+		{
+			"id": 62574,
+			"start": "Nov 16, 2013 12:30:00 PM",
+			"heim": "MTV München (u19w) a.K.",
+			"gast": "TuS Fürstenfeldbruck 2",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62575,
+					"name": "ANS",
+					"gruppe": "KG U15 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62576,
+					"name": "CLO",
+					"gruppe": "KG U15 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62577,
+					"name": "24s",
+					"gruppe": "KG U15 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62134,
+			"start": "Nov 16, 2013 3:30:00 PM",
+			"heim": "MTSV Schwabing 6",
+			"gast": "MTV München 4",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTSV Schwabing",
+			"jobs": [ ]
+		},
+		{
+			"id": 66160,
+			"start": "Nov 16, 2013 7:00:00 PM",
+			"heim": "SpVgg Höhenkirchen",
+			"gast": "MTV München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Gymnasium Höhenkirchen-Siegertsbrunn",
+			"jobs": [ ]
+		},
+		{
+			"id": 87662,
+			"start": "Nov 16, 2013 8:00:00 PM",
+			"heim": "TSV 1860 München",
+			"gast": "TS Jahn München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Volksschule München",
+			"jobs": [
+				{
+					"id": 88594,
+					"name": "SR2",
+					"executor": {
+						"name": "Maier, Theresa",
+						"email": "http://www.gravatar.com/avatar/217809e94888b15e02fc22a7e421b478?d=mm",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 88596,
+					"name": "SR1",
+					"executor": {
+						"name": "Pflieger, Iris",
+						"email": "http://www.gravatar.com/avatar/6c9611e83fc4348910c0ff3dc954e9aa?d=mm",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 67274,
+			"start": "Nov 17, 2013 12:15:00 PM",
+			"heim": "SV Mammendorf",
+			"gast": "MTV München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Mehrzweckhalle",
+			"jobs": [ ]
+		},
+		{
+			"id": 61606,
+			"start": "Nov 17, 2013 2:30:00 PM",
+			"heim": "SV Mammendorf",
+			"gast": "MTV München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Mehrzweckhalle",
+			"jobs": [ ]
+		},
+		{
+			"id": 86378,
+			"start": "Nov 17, 2013 5:00:00 PM",
+			"heim": "BC Hellenen München 2",
+			"gast": "TSV Ismaning",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Städt. Sporthalle Albrechtstr.",
+			"jobs": [
+				{
+					"id": 88644,
+					"name": "SR2",
+					"executor": {
+						"name": "Niederschweiberer, Didi",
+						"email": "http://www.gravatar.com/avatar/9d0bb453195c89b314c25ca1242df5fb?d=mm",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 88646,
+					"name": "SR1",
+					"executor": {
+						"name": "Pflieger, Iris",
+						"email": "http://www.gravatar.com/avatar/6c9611e83fc4348910c0ff3dc954e9aa?d=mm",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 67210,
+			"start": "Nov 17, 2013 6:15:00 PM",
+			"heim": "TuS Fürstenfeldbruck",
+			"gast": "MTV 1879 München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Graf-Rasso-Gymnasium",
+			"jobs": [ ]
+		},
+		{
+			"id": 86346,
+			"start": "Nov 17, 2013 7:15:00 PM",
+			"heim": "BC Hellenen München 2",
+			"gast": "TSV Ismaning",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Städt. Sporthalle Albrechtstr.",
+			"jobs": [
+				{
+					"id": 88554,
+					"name": "SR2",
+					"executor": {
+						"name": "Niederschweiberer, Didi",
+						"email": "http://www.gravatar.com/avatar/9d0bb453195c89b314c25ca1242df5fb?d=mm",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 88556,
+					"name": "SR1",
+					"executor": {
+						"name": "Pflieger, Iris",
+						"email": "http://www.gravatar.com/avatar/6c9611e83fc4348910c0ff3dc954e9aa?d=mm",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 61894,
+			"start": "Nov 17, 2013 7:30:00 PM",
+			"heim": "TSV Jahn Freising 2",
+			"gast": "MTV München 1",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Realschule Düwellstr.",
+			"jobs": [ ]
+		},
+		{
+			"id": 62094,
+			"start": "Nov 21, 2013 7:30:00 PM",
+			"heim": "SV Allianz München",
+			"gast": "MTV München (u19w) a.K.",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Allianz Sportzentrum",
+			"jobs": [ ]
+		},
+		{
+			"id": 67306,
+			"start": "Nov 23, 2013 11:30:00 AM",
+			"heim": "TSV Wolnzach",
+			"gast": "MTV München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Hallertau-Gymnasium",
+			"jobs": [ ]
+		},
+		{
+			"id": 67342,
+			"start": "Nov 23, 2013 12:30:00 PM",
+			"heim": "MTV 1879 München",
+			"gast": "DJK Landsberg",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 67343,
+					"name": "ANS",
+					"gruppe": "KG U17 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 67344,
+					"name": "CLO",
+					"gruppe": "KG U17 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 67345,
+					"name": "24s",
+					"gruppe": "KG U17 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62038,
+			"start": "Nov 23, 2013 5:00:00 PM",
+			"heim": "TV 1862 Passau",
+			"gast": "MTV 1879 München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Städtische Dreifachhalle",
+			"jobs": [
+				{
+					"id": 103005,
+					"name": "SR2",
+					"executor": {
+						"name": "Drexler, Christoph",
+						"email": "http://www.gravatar.com/avatar/afc6f3ccb2b6133663186b21b592ed85?d=mm",
+						"type": "EXTERN"
+					}
+				},
+				{
+					"id": 103007,
+					"name": "SR1",
+					"executor": {
+						"name": "Hofmann, Matthias",
+						"email": "http://www.gravatar.com/avatar/afc6f3ccb2b6133663186b21b592ed85?d=mm",
+						"type": "EXTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 86226,
+			"start": "Nov 23, 2013 5:30:00 PM",
+			"heim": "BC Hellenen München",
+			"gast": "TSV Weilheim",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Städt. Sporthalle Albrechtstr.",
+			"jobs": [
+				{
+					"id": 103228,
+					"name": "SR2",
+					"executor": {
+						"name": "Tsalmas, Antonios",
+						"email": "http://www.gravatar.com/avatar/afc6f3ccb2b6133663186b21b592ed85?d=mm",
+						"type": "EXTERN"
+					}
+				},
+				{
+					"id": 103230,
+					"name": "SR1",
+					"executor": {
+						"name": "Zenk, Barbara",
+						"email": "http://www.gravatar.com/avatar/575f9fedc2fd9c44ee222d18041a3537?d=mm",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 67422,
+			"start": "Nov 24, 2013 10:00:00 AM",
+			"heim": "MTV München",
+			"gast": "TV Traunstein",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 67423,
+					"name": "ANS",
+					"gruppe": "KG U18 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 67424,
+					"name": "CLO",
+					"gruppe": "KG U18 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 67425,
+					"name": "24s",
+					"gruppe": "KG U18 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 61710,
+			"start": "Nov 24, 2013 11:15:00 AM",
+			"heim": "ESV Staffelsee",
+			"gast": "MTV München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Staffelsee-Gymnasium",
+			"jobs": [ ]
+		},
+		{
+			"id": 62174,
+			"start": "Nov 24, 2013 12:30:00 PM",
+			"heim": "SpVgg Altenerding",
+			"gast": "MTV München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Knabenschule",
+			"jobs": [ ]
+		},
+		{
+			"id": 66184,
+			"start": "Nov 24, 2013 12:30:00 PM",
+			"heim": "MTV München",
+			"gast": "TuS Holzkirchen",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 66187,
+					"name": "24s",
+					"gruppe": "KG U15 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 66186,
+					"name": "CLO",
+					"gruppe": "KG U15 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 66185,
+					"name": "ANS",
+					"gruppe": "KG U15 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 95124,
+					"name": "SR1",
+					"executor": {
+						"name": "Maier, Theresa",
+						"email": "http://www.gravatar.com/avatar/217809e94888b15e02fc22a7e421b478?d=mm",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 95125,
+					"name": "SR2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62334,
+			"start": "Nov 24, 2013 3:00:00 PM",
+			"heim": "MTV München",
+			"gast": "TS Jahn München 3",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62335,
+					"name": "ANS",
+					"gruppe": "KG Damen 2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62336,
+					"name": "CLO",
+					"gruppe": "KG Damen 2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62337,
+					"name": "24s",
+					"gruppe": "KG Damen 2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62678,
+			"start": "Nov 24, 2013 5:30:00 PM",
+			"heim": "MTV München 2",
+			"gast": "München Basket 3",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62679,
+					"name": "ANS",
+					"gruppe": "KG U17 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62680,
+					"name": "CLO",
+					"gruppe": "KG U17 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62681,
+					"name": "24s",
+					"gruppe": "KG U17 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 61846,
+			"start": "Nov 24, 2013 7:30:00 PM",
+			"heim": "TSV München Ost 5",
+			"gast": "MTV München 3",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle München-Ost",
+			"jobs": [
+				{
+					"id": 90909,
+					"name": "SR2",
+					"executor": {
+						"name": "Maier, Theresa",
+						"email": "http://www.gravatar.com/avatar/217809e94888b15e02fc22a7e421b478?d=mm",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 90911,
+					"name": "SR1",
+					"executor": {
+						"name": "Pflieger, Iris",
+						"email": "http://www.gravatar.com/avatar/6c9611e83fc4348910c0ff3dc954e9aa?d=mm",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 61614,
+			"start": "Nov 30, 2013 10:00:00 AM",
+			"heim": "TuS Fürstenfeldbruck",
+			"gast": "MTV München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Graf-Rasso-Gymnasium",
+			"jobs": [ ]
+		},
+		{
+			"id": 61790,
+			"start": "Nov 30, 2013 10:00:00 AM",
+			"heim": "TSV Wolnzach 2",
+			"gast": "MTV München 2",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Hallertau-Gymnasium",
+			"jobs": [ ]
+		},
+		{
+			"id": 62638,
+			"start": "Nov 30, 2013 10:00:00 AM",
+			"heim": "MTV München",
+			"gast": "TSV Vaterstetten",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62641,
+					"name": "24s",
+					"gruppe": "KG U19 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62640,
+					"name": "CLO",
+					"gruppe": "KG U19 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62639,
+					"name": "ANS",
+					"gruppe": "KG U19 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 93597,
+					"name": "SR1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 93598,
+					"name": "SR2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 67218,
+			"start": "Nov 30, 2013 12:15:00 PM",
+			"heim": "TSV Partenkirchen",
+			"gast": "MTV 1879 München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Werdenfels-Gymnasium",
+			"jobs": [ ]
+		},
+		{
+			"id": 62582,
+			"start": "Nov 30, 2013 12:30:00 PM",
+			"heim": "MTV München (u19w) a.K.",
+			"gast": "MTSV Schwabing 3",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62583,
+					"name": "ANS",
+					"gruppe": "KG U15 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62584,
+					"name": "CLO",
+					"gruppe": "KG U15 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62585,
+					"name": "24s",
+					"gruppe": "KG U15 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 61902,
+			"start": "Nov 30, 2013 2:30:00 PM",
+			"heim": "MTSV Schwabing 4",
+			"gast": "MTV München 1",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Morawitzkyhalle",
+			"jobs": [ ]
+		},
+		{
+			"id": 67282,
+			"start": "Nov 30, 2013 2:30:00 PM",
+			"heim": "TSV Partenkirchen",
+			"gast": "MTV München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Werdenfels-Gymnasium",
+			"jobs": [ ]
+		},
+		{
+			"id": 62774,
+			"start": "Nov 30, 2013 3:00:00 PM",
+			"heim": "MTV München (u20) a. K.",
+			"gast": "MTV Pfaffenhofen",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62775,
+					"name": "ANS",
+					"gruppe": "KG Damen 1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62776,
+					"name": "CLO",
+					"gruppe": "KG Damen 1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62777,
+					"name": "24s",
+					"gruppe": "KG Damen 1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 69970,
+			"start": "Nov 30, 2013 5:00:00 PM",
+			"heim": "Amazonen-Münchener Frauen SV",
+			"gast": "MTSV Schwabing",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Städt. Sporthalle Albrechtstr.",
+			"jobs": [
+				{
+					"id": 103218,
+					"name": "SR1",
+					"executor": {
+						"name": "Nietgen, Aaron",
+						"email": "http://www.gravatar.com/avatar/afc6f3ccb2b6133663186b21b592ed85?d=mm",
+						"type": "EXTERN"
+					}
+				},
+				{
+					"id": 103220,
+					"name": "SR2",
+					"executor": {
+						"name": "Barriuso, Monica",
+						"email": "http://www.gravatar.com/avatar/8db986b403dda90880a3c99f60e87b33?d=mm",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62390,
+			"start": "Nov 30, 2013 5:30:00 PM",
+			"heim": "MTV 1879 München",
+			"gast": "TSV Unterhaching",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62393,
+					"name": "24s",
+					"gruppe": "KG U20 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62392,
+					"name": "CLO",
+					"gruppe": "KG U20 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62391,
+					"name": "ANS",
+					"gruppe": "KG U20 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 103081,
+					"name": "SR1",
+					"executor": {
+						"name": "Ramminger, Karl",
+						"email": "http://www.gravatar.com/avatar/afc6f3ccb2b6133663186b21b592ed85?d=mm",
+						"type": "EXTERN"
+					}
+				},
+				{
+					"id": 103083,
+					"name": "SR2",
+					"executor": {
+						"name": "Zaitsev, Pavel",
+						"email": "http://www.gravatar.com/avatar/754563d2e590e44c0fd580f7922000a3?d=mm",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 69206,
+			"start": "Dec 1, 2013 10:00:00 AM",
+			"heim": "MTV München",
+			"gast": "ASV Rott am Inn",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 69207,
+					"name": "ANS",
+					"gruppe": "KG U13 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 69208,
+					"name": "CLO",
+					"gruppe": "KG U13 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 69209,
+					"name": "24s",
+					"gruppe": "KG U13 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 70634,
+			"start": "Dec 1, 2013 10:00:00 AM",
+			"heim": "MTSV Schwabing",
+			"gast": "SB DJK Rosenheim",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Morawitzkyhalle",
+			"jobs": [
+				{
+					"id": 103208,
+					"name": "SR2",
+					"executor": {
+						"name": "Anzile, Maximilian Alessandro Johannes",
+						"email": "http://www.gravatar.com/avatar/afc6f3ccb2b6133663186b21b592ed85?d=mm",
+						"type": "EXTERN"
+					}
+				},
+				{
+					"id": 103210,
+					"name": "SR1",
+					"executor": {
+						"name": "Zenk, Barbara",
+						"email": "http://www.gravatar.com/avatar/575f9fedc2fd9c44ee222d18041a3537?d=mm",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 66128,
+			"start": "Dec 1, 2013 11:00:00 AM",
+			"heim": "TSV Oberhaching",
+			"gast": "MTV München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Kyberghalle",
+			"jobs": [ ]
+		},
+		{
+			"id": 62286,
+			"start": "Dec 1, 2013 12:30:00 PM",
+			"heim": "MTV München",
+			"gast": "TS Jahn München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62287,
+					"name": "ANS",
+					"gruppe": "KG U13 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62288,
+					"name": "CLO",
+					"gruppe": "KG U13 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62289,
+					"name": "24s",
+					"gruppe": "KG U13 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 67494,
+			"start": "Dec 1, 2013 3:00:00 PM",
+			"heim": "MTV München",
+			"gast": "TSV Dachau",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 67495,
+					"name": "ANS",
+					"gruppe": "KG U13 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 67496,
+					"name": "CLO",
+					"gruppe": "KG U13 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 67497,
+					"name": "24s",
+					"gruppe": "KG U13 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 86386,
+			"start": "Dec 1, 2013 5:00:00 PM",
+			"heim": "BC Hellenen München 2",
+			"gast": "SC Vierkirchen",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Städt. Sporthalle Albrechtstr.",
+			"jobs": [
+				{
+					"id": 88674,
+					"name": "SR2",
+					"executor": {
+						"name": "Niederschweiberer, Didi",
+						"email": "http://www.gravatar.com/avatar/9d0bb453195c89b314c25ca1242df5fb?d=mm",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 88676,
+					"name": "SR1",
+					"executor": {
+						"name": "Madl, Christian",
+						"email": "http://www.gravatar.com/avatar/cb7f4bfab2efc7010c5b5b3ed5190321?d=mm",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 87718,
+			"start": "Dec 1, 2013 5:00:00 PM",
+			"heim": "TSV Trudering",
+			"gast": "TSV Dorfen",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Turnhalle der GS an der Lehrer-Götz-Strasse",
+			"jobs": [
+				{
+					"id": 88764,
+					"name": "SR2",
+					"executor": {
+						"name": "Kollmar, Manuel",
+						"email": "http://www.gravatar.com/avatar/a9d93c841a8f6c6f696f24b64c66d620?d=mm",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 88766,
+					"name": "SR1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62526,
+			"start": "Dec 1, 2013 5:30:00 PM",
+			"heim": "MTV München 2",
+			"gast": "TS Jahn München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62529,
+					"name": "24s",
+					"gruppe": "KG Herren 3",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62528,
+					"name": "CLO",
+					"gruppe": "KG Herren 3",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62527,
+					"name": "ANS",
+					"gruppe": "KG Herren 3",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 86354,
+			"start": "Dec 1, 2013 7:15:00 PM",
+			"heim": "BC Hellenen München 2",
+			"gast": "TSV München Ost 3",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Städt. Sporthalle Albrechtstr.",
+			"jobs": [
+				{
+					"id": 88604,
+					"name": "SR2",
+					"executor": {
+						"name": "Madl, Christian",
+						"email": "http://www.gravatar.com/avatar/cb7f4bfab2efc7010c5b5b3ed5190321?d=mm",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 88606,
+					"name": "SR1",
+					"executor": {
+						"name": "Niederschweiberer, Didi",
+						"email": "http://www.gravatar.com/avatar/9d0bb453195c89b314c25ca1242df5fb?d=mm",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62750,
+			"start": "Dec 1, 2013 7:45:00 PM",
+			"heim": "MTV München 3",
+			"gast": "SV Bad Tölz",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62753,
+					"name": "24s",
+					"gruppe": "KG Herren 2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62752,
+					"name": "CLO",
+					"gruppe": "KG Herren 2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62751,
+					"name": "ANS",
+					"gruppe": "KG Herren 2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62590,
+			"start": "Dec 7, 2013 12:00:00 AM",
+			"heim": "MTV München (u19w) a.K.",
+			"gast": "TSV München-Forstenried",
+			"liga": "U12 Bayernliga Südost",
+			"jobs": [
+				{
+					"id": 62593,
+					"name": "24s",
+					"gruppe": "KG U16 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62592,
+					"name": "CLO",
+					"gruppe": "KG U16 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62591,
+					"name": "ANS",
+					"gruppe": "KG U16 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 67350,
+			"start": "Dec 7, 2013 12:30:00 PM",
+			"heim": "MTV 1879 München",
+			"gast": "MÜNCHEN BASKET E.V.",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 67351,
+					"name": "ANS",
+					"gruppe": "KG U19 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 67352,
+					"name": "CLO",
+					"gruppe": "KG U19 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 67353,
+					"name": "24s",
+					"gruppe": "KG U19 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 69158,
+			"start": "Dec 7, 2013 3:45:00 PM",
+			"heim": "TS Jahn München",
+			"gast": "MTV München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Sporthalle Hochstr.",
+			"jobs": [ ]
+		},
+		{
+			"id": 62046,
+			"start": "Dec 7, 2013 5:30:00 PM",
+			"heim": "MTSV Schwabing",
+			"gast": "MTV 1879 München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Morawitzkyhalle",
+			"jobs": [ ]
+		},
+		{
+			"id": 67430,
+			"start": "Dec 8, 2013 10:00:00 AM",
+			"heim": "MTV München",
+			"gast": "TuS Fürstenfeldbruck",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 67431,
+					"name": "ANS",
+					"gruppe": "KG U20 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 67432,
+					"name": "CLO",
+					"gruppe": "KG U20 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 67433,
+					"name": "24s",
+					"gruppe": "KG U20 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 67290,
+			"start": "Dec 8, 2013 11:15:00 AM",
+			"heim": "ESV Staffelsee",
+			"gast": "MTV München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Staffelsee-Gymnasium",
+			"jobs": [ ]
+		},
+		{
+			"id": 62782,
+			"start": "Dec 8, 2013 12:30:00 PM",
+			"heim": "MTV München (u20) a. K.",
+			"gast": "TSV Schleißheim 2",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62785,
+					"name": "24s",
+					"gruppe": "KG U14 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62784,
+					"name": "CLO",
+					"gruppe": "KG U14 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62783,
+					"name": "ANS",
+					"gruppe": "KG U14 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62342,
+			"start": "Dec 8, 2013 3:00:00 PM",
+			"heim": "MTV München",
+			"gast": "TS Jahn München 1",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62343,
+					"name": "ANS",
+					"gruppe": "KG U18 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62344,
+					"name": "CLO",
+					"gruppe": "KG U18 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62345,
+					"name": "24s",
+					"gruppe": "KG U18 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 61798,
+			"start": "Dec 8, 2013 5:00:00 PM",
+			"heim": "BC Hellenen München 2",
+			"gast": "MTV München 2",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Städt. Sporthalle Albrechtstr.",
+			"jobs": [
+				{
+					"id": 89128,
+					"name": "SR1",
+					"executor": {
+						"name": "Zaitsev, Pavel",
+						"email": "http://www.gravatar.com/avatar/754563d2e590e44c0fd580f7922000a3?d=mm",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 61854,
+			"start": "Dec 8, 2013 5:00:00 PM",
+			"heim": "TSV Ismaning 2",
+			"gast": "MTV München 3",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Realschule Ismaning",
+			"jobs": [
+				{
+					"id": 89206,
+					"name": "SR2",
+					"executor": {
+						"name": "Niederschweiberer, Didi",
+						"email": "http://www.gravatar.com/avatar/9d0bb453195c89b314c25ca1242df5fb?d=mm",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62814,
+			"start": "Dec 8, 2013 5:30:00 PM",
+			"heim": "MTV München 4",
+			"gast": "SV Bad Tölz 2",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62817,
+					"name": "24s",
+					"gruppe": "KG Herren 2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62816,
+					"name": "CLO",
+					"gruppe": "KG Herren 2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62815,
+					"name": "ANS",
+					"gruppe": "KG Herren 2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 61910,
+			"start": "Dec 8, 2013 7:15:00 PM",
+			"heim": "BC Hellenen München 2",
+			"gast": "MTV München 1",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Städt. Sporthalle Albrechtstr.",
+			"jobs": [
+				{
+					"id": 89058,
+					"name": "SR1",
+					"executor": {
+						"name": "Zaitsev, Pavel",
+						"email": "http://www.gravatar.com/avatar/754563d2e590e44c0fd580f7922000a3?d=mm",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62518,
+			"start": "Dec 8, 2013 7:45:00 PM",
+			"heim": "MTV München 2",
+			"gast": "MTSV Schwabing 4",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62521,
+					"name": "24s",
+					"gruppe": "KG Herren 4",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62520,
+					"name": "CLO",
+					"gruppe": "KG Herren 4",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62519,
+					"name": "ANS",
+					"gruppe": "KG Herren 4",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 61974,
+			"start": "Dec 9, 2013 8:00:00 PM",
+			"heim": "SV Allianz München",
+			"gast": "MTV München 2",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Allianz Sportzentrum",
+			"jobs": [ ]
+		},
+		{
+			"id": 71054,
+			"start": "Dec 10, 2013 8:30:00 PM",
+			"heim": "MTSV Schwabing 5",
+			"gast": "TSV Oberhaching 3",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTSV Schwabing",
+			"jobs": [
+				{
+					"id": 88724,
+					"name": "SR2",
+					"executor": {
+						"name": "Pflieger, Iris",
+						"email": "http://www.gravatar.com/avatar/6c9611e83fc4348910c0ff3dc954e9aa?d=mm",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 88726,
+					"name": "SR1",
+					"executor": {
+						"name": "Golic, Bastian",
+						"email": "http://www.gravatar.com/avatar/9072e69006bb85c243b9cc2fba4a441c?d=mm",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62646,
+			"start": "Dec 14, 2013 12:00:00 AM",
+			"heim": "MTV München",
+			"gast": "TSV Jahn Freising",
+			"liga": "U12 Bayernliga Südost",
+			"jobs": [
+				{
+					"id": 62649,
+					"name": "24s",
+					"gruppe": "KG U15 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62648,
+					"name": "CLO",
+					"gruppe": "KG U15 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62647,
+					"name": "ANS",
+					"gruppe": "KG U15 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 93601,
+					"name": "SR1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 93602,
+					"name": "SR2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62238,
+			"start": "Dec 14, 2013 12:45:00 PM",
+			"heim": "MTV München",
+			"gast": "SB DJK Rosenheim",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62239,
+					"name": "ANS",
+					"gruppe": "KG U15 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62240,
+					"name": "CLO",
+					"gruppe": "KG U15 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62241,
+					"name": "24s",
+					"gruppe": "KG U15 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 61742,
+			"start": "Dec 14, 2013 1:45:00 PM",
+			"heim": "TuS Bad Aibling",
+			"gast": "MTV München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Sporthalle US CAMP",
+			"jobs": [ ]
+		},
+		{
+			"id": 67146,
+			"start": "Dec 14, 2013 2:30:00 PM",
+			"heim": "TSV Wasserburg",
+			"gast": "MTV München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Luitpold-Gymnasium",
+			"jobs": [ ]
+		},
+		{
+			"id": 66136,
+			"start": "Dec 14, 2013 3:00:00 PM",
+			"heim": "BC Hellenen München",
+			"gast": "MTV München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Städt. Sporthalle Albrechtstr.",
+			"jobs": [ ]
+		},
+		{
+			"id": 68694,
+			"start": "Dec 14, 2013 3:00:00 PM",
+			"heim": "München Basket 2",
+			"gast": "TuS Fürstenfeldbruck 2",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Sporthalle Dachauer Str.",
+			"jobs": [
+				{
+					"id": 88894,
+					"name": "SR2",
+					"executor": {
+						"name": "Fechner, Kathleen",
+						"email": "http://www.gravatar.com/avatar/a7430f28e4c79eafa027dffb52b237eb?d=mm",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 88896,
+					"name": "SR1",
+					"executor": {
+						"name": "Zenk, Barbara",
+						"email": "http://www.gravatar.com/avatar/575f9fedc2fd9c44ee222d18041a3537?d=mm",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 71102,
+			"start": "Dec 14, 2013 3:30:00 PM",
+			"heim": "MTSV Schwabing 6",
+			"gast": "SpVgg Höhenkirchen",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTSV Schwabing",
+			"jobs": [
+				{
+					"id": 88534,
+					"name": "SR2",
+					"executor": {
+						"name": "Asemissen, Hans Christian",
+						"email": "http://www.gravatar.com/avatar/31d4051692b95574420db2a1cb04f3c0?d=mm",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 88536,
+					"name": "SR1",
+					"executor": {
+						"name": "Kollmar, Manuel",
+						"email": "http://www.gravatar.com/avatar/a9d93c841a8f6c6f696f24b64c66d620?d=mm",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 69174,
+			"start": "Dec 14, 2013 5:00:00 PM",
+			"heim": "TuS Fürstenfeldbruck",
+			"gast": "MTV München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Graf-Rasso-Gymnasium",
+			"jobs": [ ]
+		},
+		{
+			"id": 61622,
+			"start": "Dec 14, 2013 5:15:00 PM",
+			"heim": "ESV Staffelsee",
+			"gast": "MTV München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Staffelsee-Gymnasium",
+			"jobs": [ ]
+		},
+		{
+			"id": 62398,
+			"start": "Dec 14, 2013 5:30:00 PM",
+			"heim": "MTV 1879 München",
+			"gast": "Amazonen-Münchener Frauen SV",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62399,
+					"name": "ANS",
+					"gruppe": "KG Herren 3",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62400,
+					"name": "CLO",
+					"gruppe": "KG Herren 3",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62401,
+					"name": "24s",
+					"gruppe": "KG Herren 3",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 67226,
+			"start": "Dec 14, 2013 6:00:00 PM",
+			"heim": "TuS Geretsried",
+			"gast": "MTV 1879 München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Schulzentrum",
+			"jobs": [ ]
+		},
+		{
+			"id": 85866,
+			"start": "Dec 14, 2013 7:00:00 PM",
+			"heim": "TSV 1860 München",
+			"gast": "BC Hellenen München 2",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Volksschule München",
+			"jobs": [
+				{
+					"id": 88624,
+					"name": "SR2",
+					"executor": {
+						"name": "Pflieger, Iris",
+						"email": "http://www.gravatar.com/avatar/6c9611e83fc4348910c0ff3dc954e9aa?d=mm",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 88626,
+					"name": "SR1",
+					"executor": {
+						"name": "Madl, Christian",
+						"email": "http://www.gravatar.com/avatar/cb7f4bfab2efc7010c5b5b3ed5190321?d=mm",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62142,
+			"start": "Dec 15, 2013 5:00:00 PM",
+			"heim": "TSV Trudering 2",
+			"gast": "MTV München 4",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Turnhalle der GS an der Lehrer-Götz-Strasse",
+			"jobs": [ ]
+		},
+		{
+			"id": 61718,
+			"start": "Dec 21, 2013 11:00:00 AM",
+			"heim": "TS Jahn München",
+			"gast": "MTV München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle TS Jahn München",
+			"jobs": [ ]
+		},
+		{
+			"id": 61750,
+			"start": "Jan 11, 2014 12:15:00 PM",
+			"heim": "TuS Fürstenfeldbruck",
+			"gast": "MTV München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Graf-Rasso-Gymnasium",
+			"jobs": [ ]
+		},
+		{
+			"id": 62246,
+			"start": "Jan 11, 2014 12:45:00 PM",
+			"heim": "MTV München",
+			"gast": "TuS Bad Aibling",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62247,
+					"name": "ANS",
+					"gruppe": "KG Herren 2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62248,
+					"name": "CLO",
+					"gruppe": "KG Herren 2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62249,
+					"name": "24s",
+					"gruppe": "KG Herren 2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 61934,
+			"start": "Jan 11, 2014 3:00:00 PM",
+			"heim": "MTV München 2",
+			"gast": "MTV München 1",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 61937,
+					"name": "24s",
+					"gruppe": "KG Damen 2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 61936,
+					"name": "CLO",
+					"gruppe": "KG Damen 2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 61935,
+					"name": "ANS",
+					"gruppe": "KG Damen 2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 61598,
+			"start": "Jan 11, 2014 3:45:00 PM",
+			"heim": "TS Jahn München 3",
+			"gast": "MTV München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Nymphenburger Schulen",
+			"jobs": [ ]
+		},
+		{
+			"id": 69166,
+			"start": "Jan 12, 2014 10:00:00 AM",
+			"heim": "ASV Rott am Inn",
+			"gast": "MTV München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Schalterhalle",
+			"jobs": [ ]
+		},
+		{
+			"id": 78003,
+			"start": "Jan 12, 2014 11:15:00 AM",
+			"heim": "TSV München-Forstenried",
+			"gast": "DJK Landsberg 2",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Schulzentrum",
+			"jobs": [
+				{
+					"id": 88924,
+					"name": "SR2",
+					"executor": {
+						"name": "Koldere, Kenan",
+						"email": "http://www.gravatar.com/avatar/bddf65b54ebfe265f85b33c5e70ef106?d=mm",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 88926,
+					"name": "SR1",
+					"executor": {
+						"name": "Pflieger, Iris",
+						"email": "http://www.gravatar.com/avatar/6c9611e83fc4348910c0ff3dc954e9aa?d=mm",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 67154,
+			"start": "Jan 12, 2014 2:30:00 PM",
+			"heim": "FC Bayern München 3",
+			"gast": "MTV München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Sporthalle Säbener Str.",
+			"jobs": [ ]
+		},
+		{
+			"id": 62654,
+			"start": "Jan 18, 2014 12:00:00 AM",
+			"heim": "MTV München",
+			"gast": "TSV Unterhaching",
+			"liga": "U12 Bayernliga Südost",
+			"jobs": [
+				{
+					"id": 62657,
+					"name": "24s",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62656,
+					"name": "CLO",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62655,
+					"name": "ANS",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 93605,
+					"name": "SR1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 93606,
+					"name": "SR2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 61726,
+			"start": "Jan 18, 2014 12:15:00 PM",
+			"heim": "TSV Wasserburg",
+			"gast": "MTV München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Luitpold-Gymnasium",
+			"jobs": [ ]
+		},
+		{
+			"id": 67234,
+			"start": "Jan 18, 2014 5:30:00 PM",
+			"heim": "TSV Weilheim",
+			"gast": "MTV 1879 München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "W.-C.-Röntgen-Mittelschule",
+			"jobs": [ ]
+		},
+		{
+			"id": 68670,
+			"start": "Jan 18, 2014 7:30:00 PM",
+			"heim": "München Basket 3",
+			"gast": "SC Vierkirchen",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Trainingshalle neben M-DAH",
+			"jobs": [
+				{
+					"id": 88684,
+					"name": "SR2",
+					"executor": {
+						"name": "Pflieger, Iris",
+						"email": "http://www.gravatar.com/avatar/6c9611e83fc4348910c0ff3dc954e9aa?d=mm",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 88686,
+					"name": "SR1",
+					"executor": {
+						"name": "Kollmar, Manuel",
+						"email": "http://www.gravatar.com/avatar/a9d93c841a8f6c6f696f24b64c66d620?d=mm",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62102,
+			"start": "Jan 19, 2014 10:00:00 AM",
+			"heim": "DJK Landsberg 2",
+			"gast": "MTV München (u19w) a.K.",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Saarburgkaserne",
+			"jobs": [ ]
+		},
+		{
+			"id": 66144,
+			"start": "Jan 19, 2014 10:00:00 AM",
+			"heim": "TSV Grünwald",
+			"gast": "MTV München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Freizeitpark",
+			"jobs": [ ]
+		},
+		{
+			"id": 67438,
+			"start": "Jan 19, 2014 10:00:00 AM",
+			"heim": "MTV München",
+			"gast": "ESV Staffelsee",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 67439,
+					"name": "ANS",
+					"gruppe": "KG U13 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 67440,
+					"name": "CLO",
+					"gruppe": "KG U13 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 67441,
+					"name": "24s",
+					"gruppe": "KG U13 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 61646,
+			"start": "Jan 19, 2014 11:00:00 AM",
+			"heim": "SV Polling",
+			"gast": "MTV München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Sporthalle Obersöchering",
+			"jobs": [ ]
+		},
+		{
+			"id": 62278,
+			"start": "Jan 19, 2014 12:30:00 PM",
+			"heim": "MTV München",
+			"gast": "TSV Wasserburg",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62279,
+					"name": "ANS",
+					"gruppe": "KG U14 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62280,
+					"name": "CLO",
+					"gruppe": "KG U14 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62281,
+					"name": "24s",
+					"gruppe": "KG U14 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 67298,
+			"start": "Jan 19, 2014 12:30:00 PM",
+			"heim": "DJK Landsberg",
+			"gast": "MTV München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Saarburgkaserne",
+			"jobs": [ ]
+		},
+		{
+			"id": 62822,
+			"start": "Jan 19, 2014 3:00:00 PM",
+			"heim": "MTV München 4",
+			"gast": "SpVgg Höhenkirchen",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62823,
+					"name": "ANS",
+					"gruppe": "KG Herren 1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62824,
+					"name": "CLO",
+					"gruppe": "KG Herren 1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62825,
+					"name": "24s",
+					"gruppe": "KG Herren 1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62054,
+			"start": "Jan 19, 2014 5:00:00 PM",
+			"heim": "TSV Jahn Freising",
+			"gast": "MTV 1879 München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Realschule Düwellstr.",
+			"jobs": [ ]
+		},
+		{
+			"id": 87686,
+			"start": "Jan 19, 2014 5:00:00 PM",
+			"heim": "TSV Trudering",
+			"gast": "TSV Oberhaching 3",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Turnhalle der GS an der Lehrer-Götz-Strasse",
+			"jobs": [
+				{
+					"id": 88704,
+					"name": "SR2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 88706,
+					"name": "SR1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62462,
+			"start": "Jan 19, 2014 5:30:00 PM",
+			"heim": "MTV München 1",
+			"gast": "SV Allianz München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62463,
+					"name": "ANS",
+					"gruppe": "KG Herren 2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62464,
+					"name": "CLO",
+					"gruppe": "KG Herren 2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62465,
+					"name": "24s",
+					"gruppe": "KG Herren 2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62542,
+			"start": "Jan 19, 2014 7:45:00 PM",
+			"heim": "MTV München 2",
+			"gast": "TSV München Ost 3",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62543,
+					"name": "ANS",
+					"gruppe": "KG Herren 1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62544,
+					"name": "CLO",
+					"gruppe": "KG Herren 1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62545,
+					"name": "24s",
+					"gruppe": "KG Herren 1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 67358,
+			"start": "Jan 25, 2014 10:00:00 AM",
+			"heim": "MTV 1879 München",
+			"gast": "TSV München-Forstenried",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 67359,
+					"name": "ANS",
+					"gruppe": "KG U15 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 67360,
+					"name": "CLO",
+					"gruppe": "KG U15 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 67361,
+					"name": "24s",
+					"gruppe": "KG U15 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62254,
+			"start": "Jan 25, 2014 12:45:00 PM",
+			"heim": "MTV München",
+			"gast": "TSV Neuötting",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62255,
+					"name": "ANS",
+					"gruppe": "KG U16 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62256,
+					"name": "CLO",
+					"gruppe": "KG U16 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62257,
+					"name": "24s",
+					"gruppe": "KG U16 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62182,
+			"start": "Jan 25, 2014 1:00:00 PM",
+			"heim": "TG Landshut",
+			"gast": "MTV München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Sportzentrum West Halle 4/5",
+			"jobs": [ ]
+		},
+		{
+			"id": 61782,
+			"start": "Jan 25, 2014 2:00:00 PM",
+			"heim": "TSV Ismaning",
+			"gast": "MTV München 2",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Realschule Ismaning",
+			"jobs": [ ]
+		},
+		{
+			"id": 67502,
+			"start": "Jan 25, 2014 3:00:00 PM",
+			"heim": "MTV München",
+			"gast": "München Basket",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 67503,
+					"name": "ANS",
+					"gruppe": "KG Damen 1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 67504,
+					"name": "CLO",
+					"gruppe": "KG Damen 1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 67505,
+					"name": "24s",
+					"gruppe": "KG Damen 1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62406,
+			"start": "Jan 25, 2014 5:30:00 PM",
+			"heim": "MTV 1879 München",
+			"gast": "SV Mammendorf",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62407,
+					"name": "ANS",
+					"gruppe": "KG U20 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62408,
+					"name": "CLO",
+					"gruppe": "KG U20 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62409,
+					"name": "24s",
+					"gruppe": "KG U20 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 61918,
+			"start": "Jan 25, 2014 7:00:00 PM",
+			"heim": "TSV Ismaning",
+			"gast": "MTV München 1",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Realschule Ismaning",
+			"jobs": [
+				{
+					"id": 89078,
+					"name": "SR1",
+					"executor": {
+						"name": "Zaitsev, Pavel",
+						"email": "http://www.gravatar.com/avatar/754563d2e590e44c0fd580f7922000a3?d=mm",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 61982,
+			"start": "Jan 25, 2014 7:00:00 PM",
+			"heim": "TSV 1860 München",
+			"gast": "MTV München 2",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Volksschule München",
+			"jobs": [
+				{
+					"id": 90951,
+					"name": "SR2",
+					"executor": {
+						"name": "Maier, Theresa",
+						"email": "http://www.gravatar.com/avatar/217809e94888b15e02fc22a7e421b478?d=mm",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62790,
+			"start": "Jan 25, 2014 7:45:00 PM",
+			"heim": "MTV München (u20) a. K.",
+			"gast": "VfR Garching",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62791,
+					"name": "ANS",
+					"gruppe": "KG U19 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62792,
+					"name": "CLO",
+					"gruppe": "KG U19 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62793,
+					"name": "24s",
+					"gruppe": "KG U19 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62294,
+			"start": "Jan 26, 2014 10:00:00 AM",
+			"heim": "MTV München",
+			"gast": "TSV Jahn Freising",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62295,
+					"name": "ANS",
+					"gruppe": "KG U14 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62296,
+					"name": "CLO",
+					"gruppe": "KG U14 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62297,
+					"name": "24s",
+					"gruppe": "KG U14 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 87678,
+			"start": "Jan 26, 2014 12:15:00 PM",
+			"heim": "SC Vierkirchen",
+			"gast": "TSV Wolnzach 2",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Mehrzweckhalle Vierkirchen",
+			"jobs": [
+				{
+					"id": 88694,
+					"name": "SR2",
+					"executor": {
+						"name": "Niederschweiberer, Didi",
+						"email": "http://www.gravatar.com/avatar/9d0bb453195c89b314c25ca1242df5fb?d=mm",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 88696,
+					"name": "SR1",
+					"executor": {
+						"name": "Maier, Theresa",
+						"email": "http://www.gravatar.com/avatar/217809e94888b15e02fc22a7e421b478?d=mm",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 67406,
+			"start": "Jan 26, 2014 12:30:00 PM",
+			"heim": "MTV München",
+			"gast": "TSV Vaterstetten",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 67407,
+					"name": "ANS",
+					"gruppe": "KG U13 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 67408,
+					"name": "CLO",
+					"gruppe": "KG U13 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 67409,
+					"name": "24s",
+					"gruppe": "KG U13 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 66192,
+			"start": "Jan 26, 2014 3:00:00 PM",
+			"heim": "MTV München",
+			"gast": "TSV Ottobrunn",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 66195,
+					"name": "24s",
+					"gruppe": "KG U17 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 66194,
+					"name": "CLO",
+					"gruppe": "KG U17 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 66193,
+					"name": "ANS",
+					"gruppe": "KG U17 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 95133,
+					"name": "SR1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 95134,
+					"name": "SR2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 61862,
+			"start": "Jan 26, 2014 5:00:00 PM",
+			"heim": "BC Hellenen München 3",
+			"gast": "MTV München 3",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Städt. Sporthalle Albrechtstr.",
+			"jobs": [
+				{
+					"id": 89198,
+					"name": "SR1",
+					"executor": {
+						"name": "Zaitsev, Pavel",
+						"email": "http://www.gravatar.com/avatar/754563d2e590e44c0fd580f7922000a3?d=mm",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 69866,
+			"start": "Jan 26, 2014 5:00:00 PM",
+			"heim": "TSV München Ost 3",
+			"gast": "MTSV Schwabing 4",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle München-Ost",
+			"jobs": [
+				{
+					"id": 88574,
+					"name": "SR2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 88576,
+					"name": "SR1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 61662,
+			"start": "Jan 31, 2014 8:30:00 PM",
+			"heim": "TSV Jahn Freising 3",
+			"gast": "MTV München (u20) a. K.",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Realschule Düwellstr.",
+			"jobs": [ ]
+		},
+		{
+			"id": 61870,
+			"start": "Jan 31, 2014 8:30:00 PM",
+			"heim": "FC Anadolu",
+			"gast": "MTV München 3",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Hauptschule Elisabeth-Kohn-Str.",
+			"jobs": [ ]
+		},
+		{
+			"id": 69182,
+			"start": "Feb 1, 2014 10:15:00 AM",
+			"heim": "TS Jahn München",
+			"gast": "MTV München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle TS Jahn München",
+			"jobs": [ ]
+		},
+		{
+			"id": 67366,
+			"start": "Feb 1, 2014 12:30:00 PM",
+			"heim": "MTV 1879 München",
+			"gast": "ESV Staffelsee",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 67367,
+					"name": "ANS",
+					"gruppe": "KG U15 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 67368,
+					"name": "CLO",
+					"gruppe": "KG U15 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 67369,
+					"name": "24s",
+					"gruppe": "KG U15 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 70886,
+			"start": "Feb 1, 2014 2:30:00 PM",
+			"heim": "MTSV Schwabing 4",
+			"gast": "TSV 1860 München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Morawitzkyhalle",
+			"jobs": [
+				{
+					"id": 88614,
+					"name": "SR2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 88616,
+					"name": "SR1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62310,
+			"start": "Feb 2, 2014 10:00:00 AM",
+			"heim": "MTV München",
+			"gast": "SV Bad Tölz",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62311,
+					"name": "ANS",
+					"gruppe": "KG U14 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62312,
+					"name": "CLO",
+					"gruppe": "KG U14 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62313,
+					"name": "24s",
+					"gruppe": "KG U14 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 67446,
+			"start": "Feb 2, 2014 12:30:00 PM",
+			"heim": "MTV München",
+			"gast": "TS Jahn München 3",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 67447,
+					"name": "ANS",
+					"gruppe": "KG U17 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 67448,
+					"name": "CLO",
+					"gruppe": "KG U17 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 67449,
+					"name": "24s",
+					"gruppe": "KG U17 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62062,
+			"start": "Feb 2, 2014 2:30:00 PM",
+			"heim": "FC Bayern München 3",
+			"gast": "MTV 1879 München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle FC Bayern",
+			"jobs": [ ]
+		},
+		{
+			"id": 62686,
+			"start": "Feb 2, 2014 5:30:00 PM",
+			"heim": "MTV München 2",
+			"gast": "SC Vierkirchen",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62687,
+					"name": "ANS",
+					"gruppe": "KG Herren 2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62688,
+					"name": "CLO",
+					"gruppe": "KG Herren 2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62689,
+					"name": "24s",
+					"gruppe": "KG Herren 2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 87646,
+			"start": "Feb 2, 2014 6:15:00 PM",
+			"heim": "TS Jahn München",
+			"gast": "TSV Ismaning",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle TS Jahn München",
+			"jobs": [
+				{
+					"id": 88564,
+					"name": "SR2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 88566,
+					"name": "SR1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 87750,
+			"start": "Feb 2, 2014 7:30:00 PM",
+			"heim": "TSV München Ost 5",
+			"gast": "TSV Ismaning 2",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle München-Ost",
+			"jobs": [
+				{
+					"id": 88834,
+					"name": "SR2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 88836,
+					"name": "SR1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62550,
+			"start": "Feb 2, 2014 7:45:00 PM",
+			"heim": "MTV München 2",
+			"gast": "TSV Jahn Freising 2",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62551,
+					"name": "ANS",
+					"gruppe": "KG Damen 2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62552,
+					"name": "CLO",
+					"gruppe": "KG Damen 2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62553,
+					"name": "24s",
+					"gruppe": "KG Damen 2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 67510,
+			"start": "Feb 8, 2014 10:00:00 AM",
+			"heim": "MTV München",
+			"gast": "SV Mammendorf",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 67511,
+					"name": "ANS",
+					"gruppe": "KG U15 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 67512,
+					"name": "CLO",
+					"gruppe": "KG U15 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 67513,
+					"name": "24s",
+					"gruppe": "KG U15 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 67138,
+			"start": "Feb 8, 2014 12:00:00 PM",
+			"heim": "TV Passau",
+			"gast": "MTV München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Städtische Dreifachhalle",
+			"jobs": [ ]
+		},
+		{
+			"id": 62262,
+			"start": "Feb 8, 2014 12:45:00 PM",
+			"heim": "MTV München",
+			"gast": "ESV Staffelsee",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62263,
+					"name": "ANS",
+					"gruppe": "KG U13 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62264,
+					"name": "CLO",
+					"gruppe": "KG U13 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62265,
+					"name": "24s",
+					"gruppe": "KG U13 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62598,
+			"start": "Feb 8, 2014 3:00:00 PM",
+			"heim": "MTV München (u19w) a.K.",
+			"gast": "München Basket 2",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62599,
+					"name": "ANS",
+					"gruppe": "KG Damen 1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62600,
+					"name": "CLO",
+					"gruppe": "KG Damen 1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62601,
+					"name": "24s",
+					"gruppe": "KG Damen 1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 63006,
+			"start": "Feb 8, 2014 4:30:00 PM",
+			"heim": "TSV Ismaning 2",
+			"gast": "SV Bad Tölz",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Realschule Ismaning",
+			"jobs": [
+				{
+					"id": 88824,
+					"name": "SR2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 88826,
+					"name": "SR1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62414,
+			"start": "Feb 8, 2014 5:30:00 PM",
+			"heim": "MTV 1879 München",
+			"gast": "SB DJK Rosenheim",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62415,
+					"name": "ANS",
+					"gruppe": "KG Damen 2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62416,
+					"name": "CLO",
+					"gruppe": "KG Damen 2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62417,
+					"name": "24s",
+					"gruppe": "KG Damen 2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 61926,
+			"start": "Feb 8, 2014 7:00:00 PM",
+			"heim": "TSV 1860 München",
+			"gast": "MTV München 1",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Volksschule München",
+			"jobs": [ ]
+		},
+		{
+			"id": 67454,
+			"start": "Feb 9, 2014 10:00:00 AM",
+			"heim": "MTV München",
+			"gast": "TSV Weilheim",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 67455,
+					"name": "ANS",
+					"gruppe": "KG U16 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 67456,
+					"name": "CLO",
+					"gruppe": "KG U16 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 67457,
+					"name": "24s",
+					"gruppe": "KG U16 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62190,
+			"start": "Feb 9, 2014 12:15:00 PM",
+			"heim": "MTSV Schwabing",
+			"gast": "MTV München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTSV Schwabing",
+			"jobs": [ ]
+		},
+		{
+			"id": 67242,
+			"start": "Feb 9, 2014 2:15:00 PM",
+			"heim": "SV Germering",
+			"gast": "MTV 1879 München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Max-Born-Gymnasium",
+			"jobs": [ ]
+		},
+		{
+			"id": 61590,
+			"start": "Feb 9, 2014 3:00:00 PM",
+			"heim": "DJK Landsberg",
+			"gast": "MTV München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Saarburgkaserne",
+			"jobs": [ ]
+		},
+		{
+			"id": 86442,
+			"start": "Feb 9, 2014 3:00:00 PM",
+			"heim": "BC Hellenen München 3",
+			"gast": "FC Anadolu",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Städt. Sporthalle Albrechtstr.",
+			"jobs": [
+				{
+					"id": 88874,
+					"name": "SR2",
+					"executor": {
+						"name": "Fechner, Kathleen",
+						"email": "http://www.gravatar.com/avatar/a7430f28e4c79eafa027dffb52b237eb?d=mm",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 88876,
+					"name": "SR1",
+					"executor": {
+						"name": "Zenk, Barbara",
+						"email": "http://www.gravatar.com/avatar/575f9fedc2fd9c44ee222d18041a3537?d=mm",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 68054,
+			"start": "Feb 9, 2014 5:00:00 PM",
+			"heim": "BC Hellenen München 2",
+			"gast": "München Basket 3",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Städt. Sporthalle Albrechtstr.",
+			"jobs": [
+				{
+					"id": 88654,
+					"name": "SR2",
+					"executor": {
+						"name": "Fechner, Kathleen",
+						"email": "http://www.gravatar.com/avatar/a7430f28e4c79eafa027dffb52b237eb?d=mm",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 88656,
+					"name": "SR1",
+					"executor": {
+						"name": "Zenk, Barbara",
+						"email": "http://www.gravatar.com/avatar/575f9fedc2fd9c44ee222d18041a3537?d=mm",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 87694,
+			"start": "Feb 9, 2014 5:00:00 PM",
+			"heim": "TSV Trudering",
+			"gast": "TSV Unterhaching 2",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Turnhalle der GS an der Lehrer-Götz-Strasse",
+			"jobs": [
+				{
+					"id": 88734,
+					"name": "SR2",
+					"executor": {
+						"name": "Niederschweiberer, Didi",
+						"email": "http://www.gravatar.com/avatar/9d0bb453195c89b314c25ca1242df5fb?d=mm",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 88736,
+					"name": "SR1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 66200,
+			"start": "Feb 9, 2014 5:30:00 PM",
+			"heim": "MTV München",
+			"gast": "TS Jahn München 2",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 66203,
+					"name": "24s",
+					"gruppe": "KG Herren 3",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 66202,
+					"name": "CLO",
+					"gruppe": "KG Herren 3",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 66201,
+					"name": "ANS",
+					"gruppe": "KG Herren 3",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 95142,
+					"name": "SR1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 95143,
+					"name": "SR2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 61990,
+			"start": "Feb 9, 2014 7:15:00 PM",
+			"heim": "BC Hellenen München 2",
+			"gast": "MTV München 2",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Städt. Sporthalle Albrechtstr.",
+			"jobs": [ ]
+		},
+		{
+			"id": 62758,
+			"start": "Feb 9, 2014 7:45:00 PM",
+			"heim": "MTV München 3",
+			"gast": "TSV Haar",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62761,
+					"name": "24s",
+					"gruppe": "KG U18 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62760,
+					"name": "CLO",
+					"gruppe": "KG U18 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62759,
+					"name": "ANS",
+					"gruppe": "KG U18 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 67374,
+			"start": "Feb 15, 2014 12:30:00 PM",
+			"heim": "MTV 1879 München",
+			"gast": "TuS Fürstenfeldbruck",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 67375,
+					"name": "ANS",
+					"gruppe": "KG U20 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 67376,
+					"name": "CLO",
+					"gruppe": "KG U20 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 67377,
+					"name": "24s",
+					"gruppe": "KG U20 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 61998,
+			"start": "Feb 15, 2014 2:30:00 PM",
+			"heim": "MTSV Schwabing 4",
+			"gast": "MTV München 2",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Morawitzkyhalle",
+			"jobs": [ ]
+		},
+		{
+			"id": 62478,
+			"start": "Feb 15, 2014 7:45:00 PM",
+			"heim": "MTV München 1",
+			"gast": "TSV Jahn Freising 2",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62479,
+					"name": "ANS",
+					"gruppe": "KG Herren 4",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62480,
+					"name": "CLO",
+					"gruppe": "KG Herren 4",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62481,
+					"name": "24s",
+					"gruppe": "KG Herren 4",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 67170,
+			"start": "Feb 16, 2014 10:00:00 AM",
+			"heim": "MTV München",
+			"gast": "SV Germering",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [ ]
+		},
+		{
+			"id": 62110,
+			"start": "Feb 16, 2014 1:45:00 PM",
+			"heim": "TuS Fürstenfeldbruck 2",
+			"gast": "MTV München (u19w) a.K.",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Graf-Rasso-Gymnasium",
+			"jobs": [ ]
+		},
+		{
+			"id": 62318,
+			"start": "Feb 16, 2014 3:00:00 PM",
+			"heim": "MTV München",
+			"gast": "SV Mammendorf",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62319,
+					"name": "ANS",
+					"gruppe": "KG U14 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62320,
+					"name": "CLO",
+					"gruppe": "KG U14 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62321,
+					"name": "24s",
+					"gruppe": "KG U14 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62198,
+			"start": "Feb 16, 2014 3:30:00 PM",
+			"heim": "SV Bad Tölz",
+			"gast": "MTV München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Flintkaserne Sportpark",
+			"jobs": [ ]
+		},
+		{
+			"id": 85930,
+			"start": "Feb 16, 2014 4:30:00 PM",
+			"heim": "TSV Ismaning 2",
+			"gast": "BC Hellenen München 3",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Osterfeldhalle",
+			"jobs": [
+				{
+					"id": 88844,
+					"name": "SR2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 88846,
+					"name": "SR1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 66208,
+			"start": "Feb 16, 2014 5:30:00 PM",
+			"heim": "MTV München",
+			"gast": "SpVgg Höhenkirchen",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 66211,
+					"name": "24s",
+					"gruppe": "KG Herren 4",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 66210,
+					"name": "CLO",
+					"gruppe": "KG Herren 4",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 66209,
+					"name": "ANS",
+					"gruppe": "KG Herren 4",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 95151,
+					"name": "SR1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 95152,
+					"name": "SR2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 61814,
+			"start": "Feb 16, 2014 7:00:00 PM",
+			"heim": "SG Poing",
+			"gast": "MTV München 3",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Dreifachhalle",
+			"jobs": [ ]
+		},
+		{
+			"id": 66010,
+			"start": "Feb 16, 2014 7:00:00 PM",
+			"heim": "TSV Vaterstetten 2",
+			"gast": "TSV Oberhaching 3",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Realschule Baldham",
+			"jobs": [
+				{
+					"id": 88714,
+					"name": "SR2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 88716,
+					"name": "SR1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 85890,
+			"start": "Feb 16, 2014 7:00:00 PM",
+			"heim": "TSV Ismaning",
+			"gast": "BC Hellenen München 2",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Osterfeldhalle",
+			"jobs": [
+				{
+					"id": 88634,
+					"name": "SR2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 88636,
+					"name": "SR1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62806,
+			"start": "Feb 16, 2014 7:45:00 PM",
+			"heim": "MTV München 4",
+			"gast": "MTSV Schwabing 6",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62809,
+					"name": "24s",
+					"gruppe": "KG U18 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62808,
+					"name": "CLO",
+					"gruppe": "KG U18 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62807,
+					"name": "ANS",
+					"gruppe": "KG U18 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 87758,
+			"start": "Feb 21, 2014 8:30:00 PM",
+			"heim": "FC Anadolu",
+			"gast": "SG Poing",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Hauptschule Elisabeth-Kohn-Str.",
+			"jobs": [
+				{
+					"id": 88854,
+					"name": "SR2",
+					"executor": {
+						"name": "Maier, Theresa",
+						"email": "http://www.gravatar.com/avatar/217809e94888b15e02fc22a7e421b478?d=mm",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 88856,
+					"name": "SR1",
+					"executor": {
+						"name": "Madl, Christian",
+						"email": "http://www.gravatar.com/avatar/cb7f4bfab2efc7010c5b5b3ed5190321?d=mm",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62662,
+			"start": "Feb 22, 2014 10:00:00 AM",
+			"heim": "MTV München",
+			"gast": "SpVgg Altenerding",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62665,
+					"name": "24s",
+					"gruppe": "KG U13 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62664,
+					"name": "CLO",
+					"gruppe": "KG U13 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62663,
+					"name": "ANS",
+					"gruppe": "KG U13 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 93609,
+					"name": "SR1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 93610,
+					"name": "SR2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 61758,
+			"start": "Feb 22, 2014 12:15:00 PM",
+			"heim": "TSV Wasserburg",
+			"gast": "MTV München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Luitpold-Gymnasium",
+			"jobs": [ ]
+		},
+		{
+			"id": 67518,
+			"start": "Feb 22, 2014 12:30:00 PM",
+			"heim": "MTV München",
+			"gast": "TSV Partenkirchen",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 67519,
+					"name": "ANS",
+					"gruppe": "KG U15 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 67520,
+					"name": "CLO",
+					"gruppe": "KG U15 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 67521,
+					"name": "24s",
+					"gruppe": "KG U15 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 66152,
+			"start": "Feb 22, 2014 1:45:00 PM",
+			"heim": "TuS Holzkirchen",
+			"gast": "MTV München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Sportzentrum",
+			"jobs": [ ]
+		},
+		{
+			"id": 62606,
+			"start": "Feb 22, 2014 3:00:00 PM",
+			"heim": "MTV München (u19w) a.K.",
+			"gast": "SV Allianz München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62609,
+					"name": "24s",
+					"gruppe": "KG Damen 1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62608,
+					"name": "CLO",
+					"gruppe": "KG Damen 1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62607,
+					"name": "ANS",
+					"gruppe": "KG Damen 1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 67250,
+			"start": "Feb 22, 2014 3:00:00 PM",
+			"heim": "DJK Landsberg",
+			"gast": "MTV 1879 München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Saarburgkaserne",
+			"jobs": [ ]
+		},
+		{
+			"id": 62422,
+			"start": "Feb 22, 2014 5:30:00 PM",
+			"heim": "MTV 1879 München",
+			"gast": "TV 1862 Passau",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62423,
+					"name": "ANS",
+					"gruppe": "KG U19 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62424,
+					"name": "CLO",
+					"gruppe": "KG U19 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62425,
+					"name": "24s",
+					"gruppe": "KG U19 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 61806,
+			"start": "Feb 22, 2014 7:30:00 PM",
+			"heim": "München Basket 3",
+			"gast": "MTV München 2",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Trainingshalle neben M-DAH",
+			"jobs": [
+				{
+					"id": 89136,
+					"name": "SR2",
+					"gruppe": "Alle Schwabinger SR Ansetzungen",
+					"executor": {
+						"name": "Pflieger, Iris",
+						"email": "http://www.gravatar.com/avatar/6c9611e83fc4348910c0ff3dc954e9aa?d=mm",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 89138,
+					"name": "SR1",
+					"gruppe": "Alle Schwabinger SR Ansetzungen",
+					"executor": {
+						"name": "Maier, Theresa",
+						"email": "http://www.gravatar.com/avatar/217809e94888b15e02fc22a7e421b478?d=mm",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62798,
+			"start": "Feb 22, 2014 7:45:00 PM",
+			"heim": "MTV München (u20) a. K.",
+			"gast": "TSV Jahn Freising 3",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62801,
+					"name": "24s",
+					"gruppe": "KG Herren 1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62800,
+					"name": "CLO",
+					"gruppe": "KG Herren 1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62799,
+					"name": "ANS",
+					"gruppe": "KG Herren 1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 69214,
+			"start": "Feb 23, 2014 12:30:00 PM",
+			"heim": "MTV München",
+			"gast": "TuS Fürstenfeldbruck",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 69215,
+					"name": "ANS",
+					"gruppe": "KG Herren 3",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 69216,
+					"name": "CLO",
+					"gruppe": "KG Herren 3",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 69217,
+					"name": "24s",
+					"gruppe": "KG Herren 3",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62710,
+			"start": "Feb 23, 2014 3:00:00 PM",
+			"heim": "MTV München 3",
+			"gast": "TSV München Ost 5",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62711,
+					"name": "ANS",
+					"gruppe": "KG Damen 2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62712,
+					"name": "CLO",
+					"gruppe": "KG Damen 2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62713,
+					"name": "24s",
+					"gruppe": "KG Damen 2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 70918,
+			"start": "Feb 26, 2014 8:30:00 PM",
+			"heim": "MTSV Schwabing 3",
+			"gast": "TuS Fürstenfeldbruck 2",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTSV Schwabing",
+			"jobs": [
+				{
+					"id": 88904,
+					"name": "SR2",
+					"executor": {
+						"name": "Pflieger, Iris",
+						"email": "http://www.gravatar.com/avatar/6c9611e83fc4348910c0ff3dc954e9aa?d=mm",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 88906,
+					"name": "SR1",
+					"executor": {
+						"name": "Golic, Bastian",
+						"email": "http://www.gravatar.com/avatar/9072e69006bb85c243b9cc2fba4a441c?d=mm",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 67486,
+			"start": "Mar 1, 2014 12:30:00 PM",
+			"heim": "MTV München",
+			"gast": "TSV Wolnzach",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 67487,
+					"name": "ANS",
+					"gruppe": "KG U16 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 67488,
+					"name": "CLO",
+					"gruppe": "KG U16 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 67489,
+					"name": "24s",
+					"gruppe": "KG U16 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62742,
+			"start": "Mar 1, 2014 7:45:00 PM",
+			"heim": "MTV München 3",
+			"gast": "SG Poing",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62745,
+					"name": "24s",
+					"gruppe": "KG U20 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62744,
+					"name": "CLO",
+					"gruppe": "KG U20 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62743,
+					"name": "ANS",
+					"gruppe": "KG U20 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 89238,
+					"name": "SR1",
+					"executor": {
+						"name": "Zaitsev, Pavel",
+						"email": "http://www.gravatar.com/avatar/754563d2e590e44c0fd580f7922000a3?d=mm",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62766,
+			"start": "Mar 2, 2014 3:00:00 PM",
+			"heim": "MTV München 3",
+			"gast": "MTV Pfaffenhofen",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62767,
+					"name": "ANS",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62768,
+					"name": "CLO",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62769,
+					"name": "24s",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 87710,
+			"start": "Mar 8, 2014 5:00:00 PM",
+			"heim": "TSV 1884 Wolnzach 2",
+			"gast": "TSV Schleißheim",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Hallertau-Gymnasium",
+			"jobs": [
+				{
+					"id": 88754,
+					"name": "SR2",
+					"executor": {
+						"name": "Niederschweiberer, Didi",
+						"email": "http://www.gravatar.com/avatar/9d0bb453195c89b314c25ca1242df5fb?d=mm",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 88756,
+					"name": "SR1",
+					"executor": {
+						"name": "Maier, Theresa",
+						"email": "http://www.gravatar.com/avatar/217809e94888b15e02fc22a7e421b478?d=mm",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 95555,
+			"start": "Mar 9, 2014 12:30:00 PM",
+			"heim": "MTV München",
+			"gast": "TSV 1884 Wolnzach",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 95556,
+					"name": "ANS",
+					"gruppe": "KG U16 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 95557,
+					"name": "CLO",
+					"gruppe": "KG U16 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 95558,
+					"name": "24s",
+					"gruppe": "KG U16 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62470,
+			"start": "Mar 9, 2014 5:30:00 PM",
+			"heim": "MTV München 1",
+			"gast": "TSV München Ost 3",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62473,
+					"name": "24s",
+					"gruppe": "KG Damen 1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62472,
+					"name": "CLO",
+					"gruppe": "KG Damen 1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62471,
+					"name": "ANS",
+					"gruppe": "KG Damen 1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 90983,
+					"name": "SR2",
+					"executor": {
+						"name": "Niederschweiberer, Didi",
+						"email": "http://www.gravatar.com/avatar/9d0bb453195c89b314c25ca1242df5fb?d=mm",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 67526,
+			"start": "Mar 15, 2014 10:00:00 AM",
+			"heim": "MTV München",
+			"gast": "ESV Staffelsee",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 67527,
+					"name": "ANS",
+					"gruppe": "KG U16 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 67528,
+					"name": "CLO",
+					"gruppe": "KG U16 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 67529,
+					"name": "24s",
+					"gruppe": "KG U16 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 67382,
+			"start": "Mar 15, 2014 12:30:00 PM",
+			"heim": "MTV 1879 München",
+			"gast": "TSV Partenkirchen",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 67383,
+					"name": "ANS",
+					"gruppe": "KG U13 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 67384,
+					"name": "CLO",
+					"gruppe": "KG U13 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 67385,
+					"name": "24s",
+					"gruppe": "KG U13 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 67178,
+			"start": "Mar 15, 2014 2:30:00 PM",
+			"heim": "TV Traunstein",
+			"gast": "MTV München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Halle der Ludwig-Thoma-Schule",
+			"jobs": [ ]
+		},
+		{
+			"id": 62206,
+			"start": "Mar 15, 2014 3:30:00 PM",
+			"heim": "TSV Vaterstetten",
+			"gast": "MTV München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Realschule Baldham",
+			"jobs": [ ]
+		},
+		{
+			"id": 62070,
+			"start": "Mar 15, 2014 4:45:00 PM",
+			"heim": "TSV Unterhaching",
+			"gast": "MTV 1879 München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Lise-Meitner-Gymnasium",
+			"jobs": [ ]
+		},
+		{
+			"id": 62006,
+			"start": "Mar 15, 2014 6:15:00 PM",
+			"heim": "TS Jahn München",
+			"gast": "MTV München 2",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle TS Jahn München",
+			"jobs": [ ]
+		},
+		{
+			"id": 61766,
+			"start": "Mar 16, 2014 11:15:00 AM",
+			"heim": "TS Jahn München",
+			"gast": "MTV München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle TS Jahn München",
+			"jobs": [ ]
+		},
+		{
+			"id": 66216,
+			"start": "Mar 16, 2014 12:30:00 PM",
+			"heim": "MTV München",
+			"gast": "TSV Oberhaching",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 66219,
+					"name": "24s",
+					"gruppe": "KG U17 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 66218,
+					"name": "CLO",
+					"gruppe": "KG U17 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 66217,
+					"name": "ANS",
+					"gruppe": "KG U17 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 95160,
+					"name": "SR1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 95161,
+					"name": "SR2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62358,
+			"start": "Mar 16, 2014 3:00:00 PM",
+			"heim": "MTV München",
+			"gast": "TuS Fürstenfeldbruck",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62359,
+					"name": "ANS",
+					"gruppe": "KG U18 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62360,
+					"name": "CLO",
+					"gruppe": "KG U18 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62361,
+					"name": "24s",
+					"gruppe": "KG U18 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 61670,
+			"start": "Mar 16, 2014 5:00:00 PM",
+			"heim": "MTV Pfaffenhofen",
+			"gast": "MTV München (u20) a. K.",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Grundschule Niederscheyern",
+			"jobs": [ ]
+		},
+		{
+			"id": 62694,
+			"start": "Mar 16, 2014 5:30:00 PM",
+			"heim": "MTV München 2",
+			"gast": "TSV Wolnzach 2",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62695,
+					"name": "ANS",
+					"gruppe": "KG Herren 1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62696,
+					"name": "CLO",
+					"gruppe": "KG Herren 1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62697,
+					"name": "24s",
+					"gruppe": "KG Herren 1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 61822,
+			"start": "Mar 16, 2014 6:00:00 PM",
+			"heim": "SV Bad Tölz",
+			"gast": "MTV München 3",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Flintkaserne Sportpark",
+			"jobs": [ ]
+		},
+		{
+			"id": 78011,
+			"start": "Mar 16, 2014 7:30:00 PM",
+			"heim": "TSV München-Forstenried",
+			"gast": "SV Allianz München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Schulzentrum",
+			"jobs": [
+				{
+					"id": 88964,
+					"name": "SR2",
+					"executor": {
+						"name": "Koldere, Kenan",
+						"email": "http://www.gravatar.com/avatar/bddf65b54ebfe265f85b33c5e70ef106?d=mm",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 88966,
+					"name": "SR1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 87636,
+			"start": "Mar 17, 2014 8:00:00 PM",
+			"heim": "SV Allianz München",
+			"gast": "TSV Jahn Freising 2",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Allianz Sportzentrum",
+			"jobs": [
+				{
+					"id": 88544,
+					"name": "SR2",
+					"executor": {
+						"name": "Maier, Theresa",
+						"email": "http://www.gravatar.com/avatar/217809e94888b15e02fc22a7e421b478?d=mm",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 88546,
+					"name": "SR1",
+					"executor": {
+						"name": "Pflieger, Iris",
+						"email": "http://www.gravatar.com/avatar/6c9611e83fc4348910c0ff3dc954e9aa?d=mm",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62118,
+			"start": "Mar 19, 2014 8:30:00 PM",
+			"heim": "MTSV Schwabing 3",
+			"gast": "MTV München (u19w) a.K.",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTSV Schwabing",
+			"jobs": [ ]
+		},
+		{
+			"id": 63014,
+			"start": "Mar 21, 2014 8:30:00 PM",
+			"heim": "FC Anadolu",
+			"gast": "SV Bad Tölz",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Hauptschule Elisabeth-Kohn-Str.",
+			"jobs": [
+				{
+					"id": 88814,
+					"name": "SR2",
+					"executor": {
+						"name": "Maier, Theresa",
+						"email": "http://www.gravatar.com/avatar/217809e94888b15e02fc22a7e421b478?d=mm",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 88816,
+					"name": "SR1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 69222,
+			"start": "Mar 22, 2014 10:00:00 AM",
+			"heim": "MTV München",
+			"gast": "TS Jahn München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 69223,
+					"name": "ANS",
+					"gruppe": "KG U16 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 69224,
+					"name": "CLO",
+					"gruppe": "KG U16 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 69225,
+					"name": "24s",
+					"gruppe": "KG U16 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 67314,
+			"start": "Mar 22, 2014 4:00:00 PM",
+			"heim": "TSV Dachau",
+			"gast": "MTV München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Jahnhalle",
+			"jobs": [ ]
+		},
+		{
+			"id": 87784,
+			"start": "Mar 22, 2014 5:00:00 PM",
+			"heim": "SV Allianz München",
+			"gast": "DJK Landsberg 2",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Allianz Sportzentrum",
+			"jobs": [
+				{
+					"id": 88914,
+					"name": "SR2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 88916,
+					"name": "SR1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 61678,
+			"start": "Mar 22, 2014 5:30:00 PM",
+			"heim": "TSV Schleißheim 2",
+			"gast": "MTV München (u20) a. K.",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Sporthalle beim Hallenbad",
+			"jobs": [ ]
+		},
+		{
+			"id": 62430,
+			"start": "Mar 22, 2014 5:30:00 PM",
+			"heim": "MTV 1879 München",
+			"gast": "MTSV Schwabing",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62431,
+					"name": "ANS",
+					"gruppe": "KG Herren 1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62432,
+					"name": "CLO",
+					"gruppe": "KG Herren 1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62433,
+					"name": "24s",
+					"gruppe": "KG Herren 1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 87726,
+			"start": "Mar 22, 2014 6:00:00 PM",
+			"heim": "TSV München Ost 4",
+			"gast": "TSV Dorfen",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle München-Ost",
+			"jobs": [
+				{
+					"id": 88774,
+					"name": "SR2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 88776,
+					"name": "SR1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62150,
+			"start": "Mar 22, 2014 7:00:00 PM",
+			"heim": "SV Bad Tölz 2",
+			"gast": "MTV München 4",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Flintkaserne Sportpark",
+			"jobs": [ ]
+		},
+		{
+			"id": 62494,
+			"start": "Mar 22, 2014 7:45:00 PM",
+			"heim": "MTV München 1",
+			"gast": "BC Hellenen München 2",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62497,
+					"name": "24s",
+					"gruppe": "KG Damen 1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62496,
+					"name": "CLO",
+					"gruppe": "KG Damen 1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62495,
+					"name": "ANS",
+					"gruppe": "KG Damen 1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62126,
+			"start": "Mar 23, 2014 9:30:00 AM",
+			"heim": "TSV München-Forstenried",
+			"gast": "MTV München (u19w) a.K.",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Schulzentrum",
+			"jobs": [
+				{
+					"id": 89266,
+					"name": "SR2",
+					"executor": {
+						"name": "Maier, Theresa",
+						"email": "http://www.gravatar.com/avatar/217809e94888b15e02fc22a7e421b478?d=mm",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 89268,
+					"name": "SR1",
+					"gruppe": "Alle Schwabinger SR Ansetzungen",
+					"executor": {
+						"name": "Pflieger, Iris",
+						"email": "http://www.gravatar.com/avatar/6c9611e83fc4348910c0ff3dc954e9aa?d=mm",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 67462,
+			"start": "Mar 23, 2014 10:00:00 AM",
+			"heim": "MTV München",
+			"gast": "TV Passau",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 67463,
+					"name": "ANS",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 67464,
+					"name": "CLO",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 67465,
+					"name": "24s",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 61638,
+			"start": "Mar 23, 2014 11:15:00 AM",
+			"heim": "TS Jahn München 1",
+			"gast": "MTV München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle TS Jahn München",
+			"jobs": [ ]
+		},
+		{
+			"id": 67258,
+			"start": "Mar 23, 2014 2:30:00 PM",
+			"heim": "MÜNCHEN BASKET E.V.",
+			"gast": "MTV 1879 München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Sporthalle Dachauer Str.",
+			"jobs": [ ]
+		},
+		{
+			"id": 62702,
+			"start": "Mar 23, 2014 5:30:00 PM",
+			"heim": "MTV München 2",
+			"gast": "BC Hellenen München 2",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62703,
+					"name": "ANS",
+					"gruppe": "KG Herren 2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62704,
+					"name": "CLO",
+					"gruppe": "KG Herren 2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62705,
+					"name": "24s",
+					"gruppe": "KG Herren 2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62558,
+			"start": "Mar 23, 2014 7:45:00 PM",
+			"heim": "MTV München 2",
+			"gast": "SV Allianz München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62561,
+					"name": "24s",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62560,
+					"name": "CLO",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62559,
+					"name": "ANS",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62718,
+			"start": "Mar 23, 2014 7:45:00 PM",
+			"heim": "MTV München 3",
+			"gast": "TSV Ismaning 2",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62721,
+					"name": "24s",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62720,
+					"name": "CLO",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62719,
+					"name": "ANS",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 67390,
+			"start": "Mar 29, 2014 12:30:00 PM",
+			"heim": "MTV 1879 München",
+			"gast": "TuS Geretsried",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 67391,
+					"name": "ANS",
+					"gruppe": "KG U19 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 67392,
+					"name": "CLO",
+					"gruppe": "KG U19 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 67393,
+					"name": "24s",
+					"gruppe": "KG U19 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62078,
+			"start": "Mar 29, 2014 5:00:00 PM",
+			"heim": "Amazonen-Münchener Frauen SV",
+			"gast": "MTV 1879 München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Städt. Sporthalle Albrechtstr.",
+			"jobs": [ ]
+		},
+		{
+			"id": 67186,
+			"start": "Mar 29, 2014 5:00:00 PM",
+			"heim": "TuS Fürstenfeldbruck",
+			"gast": "MTV München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Graf-Rasso-Gymnasium",
+			"jobs": [ ]
+		},
+		{
+			"id": 69230,
+			"start": "Mar 30, 2014 10:00:00 AM",
+			"heim": "MTV München",
+			"gast": "ASV Rott am Inn",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 69231,
+					"name": "ANS",
+					"gruppe": "KG U13 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 69232,
+					"name": "CLO",
+					"gruppe": "KG U13 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 69233,
+					"name": "24s",
+					"gruppe": "KG U13 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 77617,
+			"start": "Mar 30, 2014 10:00:00 AM",
+			"heim": "DJK Landsberg 2",
+			"gast": "TSV München-Forstenried",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Saarburgkaserne",
+			"jobs": [
+				{
+					"id": 88944,
+					"name": "SR2",
+					"executor": {
+						"name": "Maier, Theresa",
+						"email": "http://www.gravatar.com/avatar/217809e94888b15e02fc22a7e421b478?d=mm",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 88946,
+					"name": "SR1",
+					"executor": {
+						"name": "Pflieger, Iris",
+						"email": "http://www.gravatar.com/avatar/6c9611e83fc4348910c0ff3dc954e9aa?d=mm",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62302,
+			"start": "Mar 30, 2014 12:30:00 PM",
+			"heim": "MTV München",
+			"gast": "TuS Bad Aibling",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62303,
+					"name": "ANS",
+					"gruppe": "KG U17 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62304,
+					"name": "CLO",
+					"gruppe": "KG U17 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62305,
+					"name": "24s",
+					"gruppe": "KG U17 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 68070,
+			"start": "Mar 30, 2014 2:00:00 PM",
+			"heim": "TSV Ismaning",
+			"gast": "München Basket 3",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Osterfeldhalle",
+			"jobs": [
+				{
+					"id": 88664,
+					"name": "SR2",
+					"executor": {
+						"name": "Kollmar, Manuel",
+						"email": "http://www.gravatar.com/avatar/a9d93c841a8f6c6f696f24b64c66d620?d=mm",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 88666,
+					"name": "SR1",
+					"executor": {
+						"name": "Pflieger, Iris",
+						"email": "http://www.gravatar.com/avatar/6c9611e83fc4348910c0ff3dc954e9aa?d=mm",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62214,
+			"start": "Mar 30, 2014 3:00:00 PM",
+			"heim": "TSV Jahn Freising",
+			"gast": "MTV München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Realschule Düwellstr.",
+			"jobs": [ ]
+		},
+		{
+			"id": 62366,
+			"start": "Mar 30, 2014 3:00:00 PM",
+			"heim": "MTV München",
+			"gast": "ESV Staffelsee",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62367,
+					"name": "ANS",
+					"gruppe": "KG U18 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62368,
+					"name": "CLO",
+					"gruppe": "KG U18 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62369,
+					"name": "24s",
+					"gruppe": "KG U18 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 87776,
+			"start": "Mar 30, 2014 4:30:00 PM",
+			"heim": "TSV Ismaning 2",
+			"gast": "FC Anadolu",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Osterfeldhalle",
+			"jobs": [
+				{
+					"id": 88884,
+					"name": "SR2",
+					"executor": {
+						"name": "Pflieger, Iris",
+						"email": "http://www.gravatar.com/avatar/6c9611e83fc4348910c0ff3dc954e9aa?d=mm",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 88886,
+					"name": "SR1",
+					"executor": {
+						"name": "Kollmar, Manuel",
+						"email": "http://www.gravatar.com/avatar/a9d93c841a8f6c6f696f24b64c66d620?d=mm",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 61830,
+			"start": "Mar 30, 2014 5:00:00 PM",
+			"heim": "MTV Pfaffenhofen",
+			"gast": "MTV München 3",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Grundschule Niederscheyern",
+			"jobs": [ ]
+		},
+		{
+			"id": 66224,
+			"start": "Mar 30, 2014 5:30:00 PM",
+			"heim": "MTV München",
+			"gast": "BC Hellenen München",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 66227,
+					"name": "24s",
+					"gruppe": "KG Herren 4",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 66226,
+					"name": "CLO",
+					"gruppe": "KG Herren 4",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 66225,
+					"name": "ANS",
+					"gruppe": "KG Herren 4",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 95169,
+					"name": "SR1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 95170,
+					"name": "SR2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 61942,
+			"start": "Mar 30, 2014 6:15:00 PM",
+			"heim": "TS Jahn München",
+			"gast": "MTV München 1",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle TS Jahn München",
+			"jobs": [
+				{
+					"id": 89068,
+					"name": "SR1",
+					"executor": {
+						"name": "Zaitsev, Pavel",
+						"email": "http://www.gravatar.com/avatar/754563d2e590e44c0fd580f7922000a3?d=mm",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62014,
+			"start": "Mar 30, 2014 7:00:00 PM",
+			"heim": "TSV Ismaning",
+			"gast": "MTV München 2",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Osterfeldhalle",
+			"jobs": [ ]
+		},
+		{
+			"id": 87766,
+			"start": "Mar 30, 2014 7:30:00 PM",
+			"heim": "TSV München Ost 5",
+			"gast": "SG Poing",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle München-Ost",
+			"jobs": [
+				{
+					"id": 88864,
+					"name": "SR2",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 88866,
+					"name": "SR1",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62830,
+			"start": "Mar 30, 2014 7:45:00 PM",
+			"heim": "MTV München 4",
+			"gast": "TSV Trudering 2",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62833,
+					"name": "24s",
+					"gruppe": "KG U20 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62832,
+					"name": "CLO",
+					"gruppe": "KG U20 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62831,
+					"name": "ANS",
+					"gruppe": "KG U20 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 71022,
+			"start": "Apr 1, 2014 8:30:00 PM",
+			"heim": "MTSV Schwabing 5",
+			"gast": "TSV Trudering",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTSV Schwabing",
+			"jobs": [
+				{
+					"id": 88804,
+					"name": "SR2",
+					"executor": {
+						"name": "Pflieger, Iris",
+						"email": "http://www.gravatar.com/avatar/6c9611e83fc4348910c0ff3dc954e9aa?d=mm",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 88806,
+					"name": "SR1",
+					"executor": {
+						"name": "Golic, Bastian",
+						"email": "http://www.gravatar.com/avatar/9072e69006bb85c243b9cc2fba4a441c?d=mm",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 69238,
+			"start": "Apr 5, 2014 10:00:00 AM",
+			"heim": "MTV München",
+			"gast": "TuS Fürstenfeldbruck",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 69239,
+					"name": "ANS",
+					"gruppe": "KG U19 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 69240,
+					"name": "CLO",
+					"gruppe": "KG U19 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 69241,
+					"name": "24s",
+					"gruppe": "KG U19 weiblich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 67470,
+			"start": "Apr 6, 2014 10:00:00 AM",
+			"heim": "MTV München",
+			"gast": "TSV Wasserburg",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 67471,
+					"name": "ANS",
+					"gruppe": "KG U20 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 67472,
+					"name": "CLO",
+					"gruppe": "KG U20 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 67473,
+					"name": "24s",
+					"gruppe": "KG U20 männlich",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		},
+		{
+			"id": 62486,
+			"start": "Apr 6, 2014 5:30:00 PM",
+			"heim": "MTV München 1",
+			"gast": "MTSV Schwabing 4",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 62489,
+					"name": "24s",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62488,
+					"name": "CLO",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 62487,
+					"name": "ANS",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		}
+	]
+
+}

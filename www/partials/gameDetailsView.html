@@ -1,0 +1,22 @@
+<mv-header title="Details"></mv-header>
+
+<div ng-controller="GameDetailController">
+    <div class="gamelist-item">
+        <div class="liga">{{currentItem.liga}}</div>
+        <div class="paarung">
+            <div style="float:left;" class="team">
+                <span>{{currentItem.heim}}</span>
+            </div>
+            <div style="float:left;" class="date">
+                <div class="day">{{currentItem.start | date:'dd.MM.yy'}}</div>
+                <div class="time">{{currentItem.start | date:'HH:mm'}}</div>
+            </div>
+            <div style="float:left;" class="team">
+                <span class="topcoat-list-item-date">{{currentItem.gast}}</span>
+            </div>
+            <div style="clear: both;"></div>
+        </div>
+    </div>
+</div>
+
+<ng-include src="'partials/settingsOverlay.html'"></ng-include>

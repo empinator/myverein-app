@@ -1,0 +1,45 @@
+{
+
+	"message": "SUCCESS",
+	"game":
+		{
+			"id": 61966,
+			"start": "Sep 28, 2013 5:30:00 PM",
+			"heim": "MTV München 1",
+			"gast": "MTV München 2",
+			"liga": "U12 Bayernliga Südost",
+			"halle": "Vereinshalle MTV München",
+			"jobs": [
+				{
+					"id": 61967,
+					"name": "ANS",
+					"gruppe": "KG Herren 3",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 61968,
+					"name": "CLO",
+					"gruppe": "KG Herren 3",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				},
+				{
+					"id": 61969,
+					"name": "24s",
+					"gruppe": "KG Herren 3",
+					"executor": {
+						"name": "",
+						"email": "",
+						"type": "INTERN"
+					}
+				}
+			]
+		}
+}

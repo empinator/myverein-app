@@ -15,12 +15,8 @@ myApp.directive('mvHeader', function ()
 		restrict: 'E',
 		replace: true,
 		transclude: true,
-		scope: {
-			title: '=title',
-			styleClass: '@styleClass'
-		},
+		scope: true,
 		controller: ['$scope', function($scope) {
-
 		}],
 		link: function(scope, iElement, iAttrs, ctrl) {
 			scope.styleClass = iAttrs.styleClass;

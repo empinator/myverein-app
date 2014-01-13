@@ -7,3 +7,9 @@ angular.module('myApp.filters', []).
       return String(text).replace(/\%VERSION\%/mg, version);
     }
   }]);
+
+myApp.filter('addBreak', [ function() {
+	return function(text) {
+		return String(text).replace(/,/mg, ",<br/>");
+	}
+}]);

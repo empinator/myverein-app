@@ -2,146 +2,144 @@
 
 /* Controllers */
 
+var host = 'http://localhost/mv';
+//var host = 'http://www.myverein.de/teamco';
+var baseUrl = host + '/seam/resource/rest';
 
 function HeaderController($scope,navSvc) {
 	$scope.back = function () {
 		navSvc.back();
 	};
+	$scope.showChevron = function() {
+		return navSvc.isHistory();
+	};
 }
 
-function HomeCtrl($scope,navSvc,$rootScope, $http) {
-    $rootScope.showSettings = false;
+function OverlayController($scope, $rootScope) {
+	$scope.changeSettings = function () {
+		$rootScope.showLoading = true;
+	};
+	$scope.closeOverlay = function () {
+		$rootScope.showLoading = false;
+	};
+}
+
+function ClubController($scope,navSvc,$rootScope, $http) {
     $scope.slidePage = function (path,type) {
         navSvc.slidePage(path,type);
     };
     $scope.back = function () {
         navSvc.back();
     };
-    $scope.changeSettings = function () {
-        $rootScope.showSettings = true;
-    };
-    $scope.closeOverlay = function () {
-        $rootScope.showSettings = false;
-    };
 
-
-	if (!$rootScope.games) {
-		$http.get('team.json').success(
-			function (data, status, header, responses) {
-				$rootScope.teams = data.teams;
-				if(!$scope.$$phase) {
-					$scope.$apply();
-				}
-			}
-		);
-	}
 }
 
-
-//var url = 'http://192.168.178.31:8080/seam/resource/rest/ping/finger/1';
-var url='bla.json';
-
 function GameController($rootScope, navSvc, $scope, $http, $routeParams) {
-	$scope.month = $routeParams.month;
-	$scope.team = $routeParams.team;
 
-	$scope.size = 15;
-	$scope.segment = 0;
+	if(!$rootScope.games || $rootScope.games.teamId != $routeParams.team) {
+		$rootScope.games = {
+			teamId: 0,
+			segment: 0,
+			totalGames: 0,
+			size: 10,
+			gameList: [],
+			url: function() {
+				return '/games/' + this.teamId + '/' + this.segment + '/' + this.size
+			},
+			isEndReached: function() {
+				return this.gameList.length >= this.totalGames;
+			},
+			isEmpty: function() {
+				return this.gameList.length == 0;
+			}
+		};
+		$rootScope.games.teamId = $routeParams.team;
+
+	}
 
 
 	$scope.slidePage = function (path,type) {
 		navSvc.slidePage(path,type);
 	};
 
-	$scope.isSelected = function(month) {
-		return $scope.month == month;
+	$scope.isTimeNotSet = function(timeInMillis) {
+		return new Date(timeInMillis).getHours() == 0;
 	};
-
-	$scope.rotateLeft = function() {
-
-	};
-
-	$scope.rotateRight = function() {
-		$rootScope.months[2] = { 'id':'1-2013', 'name': 'Apr'};
-	};
-
-	if(!$rootScope.months) {
-		var months = [];
-		months[0] = { 'id':'1-2013', 'name': 'Jan 13'};
-		months[1] = { 'id':'2-2013', 'name': 'Feb 13'};
-		months[2] = { 'id':'3-2013', 'name': 'Mär 13'};
-		$rootScope.months = months;
-	}
-
-
-	$scope.items = [];
 
 	$scope.loadNext = function() {
-		if($scope.baseList) {
-			var start = ($scope.segment) * $scope.size;
-			var end = start + $scope.size ;
-			var items = $scope.baseList.slice(start, end);
-			console.log(items);
-			$scope.items = $scope.items.concat(items);
-			$scope.segment++;
-			if(!$scope.$$phase) {
-				$scope.$apply();
+
+		var getUrl = baseUrl + $rootScope.games.url();
+		$rootScope.showLoading = true;
+		$http.get(getUrl).success(
+			function (data) {
+				console.log(data);
+				$rootScope.showLoading = false;
+				$rootScope.games.totalGames = data.total;
+				$rootScope.games.segment++;
+				$rootScope.games.gameList = $rootScope.games.gameList.concat(data.games);
 			}
-		}
+		);
 
 	};
 
-	if (!$scope.baseList) {
-		$http.get(url).success(
-				function (data) {
+	$scope.isEndReached = function() {
+		return $rootScope.games.isEndReached();
+	};
 
-					$scope.baseList = data.games;
+	if($scope.games.isEmpty()) {
+		$scope.loadNext();
+	}
 
 
-					angular.forEach($scope.baseList, function (item)
-					{
-						item.start = new Date(item.start);
-					});
+}
 
-					$scope.loadNext();
-				}
-		);
+function GameDetailController($rootScope, $scope, $routeParams) {
+	$scope.currentItem = $rootScope.games.gameList[$routeParams.gameId];
+
+	$scope.call = function(phoneNr) {
+		window.open('tel:' + phoneNr, '_system');
 	}
 
 }
 
-function GameDetailController($rootScope, $scope, $routeParams, $http) {
-	$scope.gameId = $routeParams.gameId;
+function LoginController($rootScope, $scope, $http, authService) {
 
-	$http.get('bla-detail.json').success(
-			function (data, status, header, responses) {
-				$rootScope.currentItem = data.game;
-				$rootScope.currentItem.start = new Date(data.game.start);
-				if(!$scope.$$phase) {
-					$scope.$apply();
-				}
-			}
-	);
-}
+	$rootScope.showLogin = false;
 
-function LoginController($rootScope, $scope, navSvc) {
 	if(!$scope.user){
 		$scope.user = {
 			email: null,
 			password: null
-		}
+		};
+		$rootScope.showLogin = true;
+
+		$rootScope.$on('event:auth-loginRequired', function() {
+			console.log('login required');
+			$rootScope.showLogin = true;
+		});
+		$rootScope.$on('event:auth-loginConfirmed', function() {
+			console.log('login confirmed');
+			$rootScope.showLogin = false;
+		});
+
 	}
 
 	$scope.login = function() {
-		$rootScope.loggedIn = true;
-		navSvc.slidePage('/')
+		console.log($scope.user);
+		var credentials = btoa($scope.user.email + ':' + $scope.user.password);
+		$http.defaults.headers.common['Authorization'] = 'Basic ' + credentials;
+
+		$rootScope.showLoading = true;
+		$http.get(baseUrl+'/login/' + $scope.user.email).success(function(data) {
+			$rootScope.showLoading = false;
+			$rootScope.userTeams = data;
+			authService.loginConfirmed($scope.user);
+		});
 	} ;
 
 	$scope.logout = function() {
-		$rootScope.loggedIn = false;
-		navSvc.slidePage('/')
+		$http.defaults.headers.common['Authorization'] = '';
 	}
-
 
 }
 

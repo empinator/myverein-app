@@ -223,6 +223,9 @@ angular.module('ajoslin.mobile-navigate')
       }
       return false;
     };
+	nav.isHistory = function() {
+      return navHistory.length > 0;
+	};
 
     return nav;
   }];

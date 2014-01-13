@@ -1,18 +1,18 @@
 <mv-header title="Spiele"></mv-header>
 
 
-<div ng-controller="GameController">
+<div ng-controller="GameController" ng-hide="showLogin">
     <ul class="gamelist list-unstyled">
-        <li class="click-active" ng-class-odd="'bg-odd'" ng-repeat="item in items" >
+        <li class="click-active" ng-class-odd="'bg-odd'" ng-repeat="item in games.gameList" >
             <div class="gamelist-item"  >
                 <div class="liga">{{item.liga}}</div>
-                <div class="paarung" ng-click="slidePage('/game/{{item.id}}')">
+                <div class="paarung" ng-click="slidePage('/game/{{$index}}')">
                     <div style="float:left;" class="team">
                         <span>{{item.heim}}</span>
                     </div>
-                    <div style="float:left;" class="date">
+                    <div style="float:left;" class="date ">
                         <div class="day">{{item.start | date:'dd.MM.yy'}}</div>
-                        <div class="time">{{item.start | date:'HH:mm'}}</div>
+                        <div class="time" ng-class="{ 'text-danger' : isTimeNotSet(item.start) }">{{item.start | date:'HH:mm'}}</div>
                     </div>
                     <div style="float:left;" class="team">
                         <span>{{item.gast}}</span>
@@ -22,12 +22,16 @@
             </div>
 
         </li>
-        <li class="click-active">
+        <li class="click-active text-center" ng-hide="isEndReached()" style="padding-top: 10px; background-color: lightgray; ">
             <div class="gamelist-item" ng-click="loadNext()">
-                nächsten {{size}}
+                nächsten {{games.size}}
             </div>
         </li>
     </ul>
+
+    <div ng-show="games.totalGames === 0" class="text-center" style="font-style: italic;">
+        Keine Spiele gefunden
+    </div>
 </div>
 
 <ng-include src="'partials/settingsOverlay.html'"></ng-include>

@@ -118,7 +118,10 @@ myApp.factory('navSvc', function($navigate) {
         },
         back: function () {
             $navigate.back();
-        }
+        },
+		isHistory: function() {
+			return $navigate.isHistory();
+		}
     }
 });
 

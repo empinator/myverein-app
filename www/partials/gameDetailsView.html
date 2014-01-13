@@ -1,22 +1,60 @@
-<mv-header title="Details"></mv-header>
+<mv-header title="Spieldetails"></mv-header>
 
-<div ng-controller="GameDetailController">
-    <div class="gamelist-item">
-        <div class="liga">{{currentItem.liga}}</div>
-        <div class="paarung">
-            <div style="float:left;" class="team">
-                <span>{{currentItem.heim}}</span>
+<div ng-controller="GameDetailController" ng-hide="showLogin">
+    <div class="detail-items">
+        <div class="col-12" ng-show="currentItem.spielNr !== ''">
+            <div class="form-group">
+                <label class="col-3 control-label">SpielNr.</label>
+                <div class="col-9">{{currentItem.spielNr}}</div>
             </div>
-            <div style="float:left;" class="date">
-                <div class="day">{{currentItem.start | date:'dd.MM.yy'}}</div>
-                <div class="time">{{currentItem.start | date:'HH:mm'}}</div>
-            </div>
-            <div style="float:left;" class="team">
-                <span class="topcoat-list-item-date">{{currentItem.gast}}</span>
-            </div>
-            <div style="clear: both;"></div>
         </div>
-    </div>
-</div>
+        <div class="col-12">
+            <div class="form-group">
+                <label class="col-3 control-label">Liga</label>
+                <div class="col-9">{{currentItem.liga}}</div>
+            </div>
+        </div>
+        <div class="col-12">
+            <div class="form-group">
+                <label class="col-3 control-label">Beginn</label>
+                <div class="col-9">{{currentItem.start | date:'dd.MM.yy HH:mm'}} Uhr</div>
+            </div>
+        </div>
+        <div class="col-12">
+            <div class="form-group">
+                <label class="col-3 control-label">Heim</label>
+                <div class="col-9">{{currentItem.heim}}</div>
+            </div>
+        </div>
+        <div class="col-12">
+            <div class="form-group">
+                <label class="col-3 control-label">Gast</label>
+                <div class="col-9">{{currentItem.gast}}</div>
+            </div>
+        </div>
+        <div class="col-12">
+            <div class="form-group">
+                <label class="col-3 control-label">Halle</label>
+                <div class="col-9">
+                    <div>{{currentItem.halle}}</div>
+                    <div ng-bind-html-unsafe="currentItem.halleAdresse | addBreak"></div>
+                </div>
+            </div>
+        </div>
+        <div class="col-12" ng-repeat="j in currentItem.jobs">
+            <div class="form-group">
+                <label class="col-3 control-label">{{j.name}}</label>
+                <div class="col-9">
+                    <div ng-class="{ 'unbesetzt' : j.executor.name === '' }">
+                        <div>{{j.executor.name || "unbesetzt" }} <span ng-show="j.type === 'extern'">(j.type)</span></div>
+                        <div ng-show="j.gruppe !== ''"><small>Team: {{j.gruppe}}</small></div>
+                    </div>
+                    <div ng-show="j.executor.email !== ''">{{j.executor.email}}</div>
+                    <div ng-show="j.executor.telefon !== ''" ng-click="call(j.executor.telefon)" ng-bind-html-unsafe="j.executor.telefon | addBreak"></div>
+                </div>
+            </div>
+        </div>
 
-<ng-include src="'partials/settingsOverlay.html'"></ng-include>
+    </div>
+
+</div>

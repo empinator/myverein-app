@@ -1,0 +1,13 @@
+
+<mv-header title="Mannschaften"></mv-header>
+
+<div ng-controller="ClubController" class="topcoat-list__container list" ng-hide="showLogin">
+    <ul class="nav nav-pills nav-stacked">
+        <li class="click-active" ng-click="slidePage('/games/1')">
+            <a>Meine Spiele</a>
+        </li>
+        <li class="click-active" ng-repeat="t in userTeams" ng-click="slidePage('/games/{{t.dbId}}/1')">
+            <a>{{t.name}}</a>
+        </li>
+    </ul>
+</div>

@@ -2,8 +2,8 @@
 
 /* Controllers */
 
-//var host = 'http://localhost/mv';
-var host = 'http://www.myverein.de/teamdo';
+var host = 'http://localhost/mv';
+//var host = 'http://www.myverein.de/teamdo';
 var baseUrl = host + '/seam/resource/rest';
 
 function HeaderController($scope,navSvc) {

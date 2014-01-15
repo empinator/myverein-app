@@ -1,44 +1,29 @@
-<div id="header-holder" ng-controller="HeaderController">
-    <div class="navbar navbar-fixed-top" role="navigation">
-        <div class="container">
-            <div class="navbar-header" >
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".nav-collapse" ng-hide="showLogin">
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
+<div id="header-holder" class="header-height" ng-controller="HeaderController" >
+        <div class="row" style="height: 100%;">
 
-                <div class="navbar-brand"   href="#" style="height: 50px; width: 120px; background: url('pic/mini_logo.png') no-repeat; "></div>
+            <div class="col-2 table-like click-active"  style="color: #d0d0d0;" ng-click="back()" >
+                <span class="glyphicon glyphicon-chevron-left" ></span>
+            </div>
 
-                <div style="position: absolute; top: 15px; color: #d0d0d0;" class="visible-sm" ng-click="back()" >
-                    <span class="glyphicon glyphicon-chevron-left" ng-hide="showLogin"></span>
+
+            <div class="col-7 text-center">
+                <img src='pic/mini_logo.png' class="header-height"/>
+            </div>
+
+
+            <div class="col-2 table-like">
+                <div class="btn-group">
+                    <button type="button" class="btn btn-default btn-lg dropdown-toggle" data-toggle="dropdown">
+                        <span class="glyphicon glyphicon-th"></span>
+                    </button>
+                    <ul class="dropdown-menu" style="left:inherit; right: 0;" role="menu">
+                        <li><a ng-click="logout()">Abmelden</a></li>
+                    </ul>
                 </div>
-
-            </div>
-
-            <div class="collapse nav-collapse">
-
-                <ul class="nav navbar-nav">
-                    <li>
-                        <a href="/">
-                        page.player-list.title
-                        </a>
-                    </li>
-                    <li><a ng-click="logout()">Abmelden</a></li>
-
-                </ul>
-
-
             </div>
 
 
-            <!--/.nav-collapse -->
         </div>
-    </div>
-
-    <div class="page-header text-center" style="text-decoration: underline;" ng-hide="showLogin">
-        {{title}}
-    </div>
 
 
 </div>

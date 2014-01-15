@@ -1,11 +1,15 @@
 <mv-header title="Spiele"></mv-header>
 
+<div class="page-header text-center" style="text-decoration: underline;" ng-hide="showLogin">
+    Spiele
+</div>
+
 
 <div ng-controller="GameController" ng-hide="showLogin">
     <ul class="gamelist list-unstyled">
         <li class="click-active" ng-class-odd="'bg-odd'" ng-repeat="item in games.gameList" >
             <div class="gamelist-item"  >
-                <div class="liga">{{item.liga}}</div>
+                <div class="liga"><small>{{item.liga}}</small></div>
                 <div class="paarung" ng-click="slidePage('/game/{{$index}}')">
                     <div style="float:left;" class="team">
                         <span>{{item.heim}}</span>

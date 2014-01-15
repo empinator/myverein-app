@@ -1,5 +1,10 @@
 <mv-header title="Spieldetails"></mv-header>
 
+<div class="page-header text-center" style="text-decoration: underline;" ng-hide="showLogin">
+    Spieldetails
+</div>
+
+
 <div ng-controller="GameDetailController" ng-hide="showLogin">
     <div class="detail-items">
         <div class="col-12" ng-show="currentItem.spielNr !== ''">
@@ -47,10 +52,10 @@
                 <div class="col-9">
                     <div ng-class="{ 'unbesetzt' : j.executor.name === '' }">
                         <div>{{j.executor.name || "unbesetzt" }} <span ng-show="j.type === 'extern'">(j.type)</span></div>
-                        <div ng-show="j.gruppe !== ''"><small>Team: {{j.gruppe}}</small></div>
+                        <div ng-show="j.gruppe"><small>Team: {{j.gruppe}}</small></div>
                     </div>
-                    <div ng-show="j.executor.email !== ''">{{j.executor.email}}</div>
-                    <div ng-show="j.executor.telefon !== ''" ng-click="call(j.executor.telefon)" ng-bind-html-unsafe="j.executor.telefon | addBreak"></div>
+                    <div ng-show="j.executor.email">{{j.executor.email}}</div>
+                    <div style="color: blue; text-decoration: underline;" ng-show="j.executor.telefon" ng-click="call(j.executor.telefon)" ng-bind-html-unsafe="j.executor.telefon | addBreak"></div>
                 </div>
             </div>
         </div>

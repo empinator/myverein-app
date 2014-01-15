@@ -2,8 +2,8 @@
 
 /* Controllers */
 
-var host = 'http://localhost/mv';
-//var host = 'http://www.myverein.de/teamco';
+//var host = 'http://localhost/mv';
+var host = 'http://www.myverein.de/teamdo';
 var baseUrl = host + '/seam/resource/rest';
 
 function HeaderController($scope,navSvc) {
@@ -16,6 +16,8 @@ function HeaderController($scope,navSvc) {
 }
 
 function OverlayController($scope, $rootScope) {
+	$rootScope.requestFailed = false;
+
 	$scope.changeSettings = function () {
 		$rootScope.showLoading = true;
 	};
@@ -78,7 +80,10 @@ function GameController($rootScope, navSvc, $scope, $http, $routeParams) {
 				$rootScope.games.segment++;
 				$rootScope.games.gameList = $rootScope.games.gameList.concat(data.games);
 			}
-		);
+		).error(function(data) {
+					$rootScope.showLoading = false;
+
+				});
 
 	};
 
@@ -102,27 +107,29 @@ function GameDetailController($rootScope, $scope, $routeParams) {
 
 }
 
-function LoginController($rootScope, $scope, $http, authService) {
+function LoginController($rootScope, $scope, $http, authService, navSvc, $store) {
 
 	$rootScope.showLogin = false;
 
-	if(!$scope.user){
-		$scope.user = {
-			email: null,
-			password: null
-		};
+	var defaultUser = {
+		email: null,
+		password: null
+	};
+
+	$store.bind($scope, 'user', defaultUser);
+
+	$rootScope.showLogin = true;
+
+	$rootScope.$on('event:auth-loginRequired', function() {
+		console.log('login required');
 		$rootScope.showLogin = true;
+		$rootScope.showLoading = false;
 
-		$rootScope.$on('event:auth-loginRequired', function() {
-			console.log('login required');
-			$rootScope.showLogin = true;
-		});
-		$rootScope.$on('event:auth-loginConfirmed', function() {
-			console.log('login confirmed');
-			$rootScope.showLogin = false;
-		});
-
-	}
+	});
+	$rootScope.$on('event:auth-loginConfirmed', function() {
+		console.log('login confirmed');
+		$rootScope.showLogin = false;
+	});
 
 	$scope.login = function() {
 		console.log($scope.user);
@@ -134,10 +141,18 @@ function LoginController($rootScope, $scope, $http, authService) {
 			$rootScope.showLoading = false;
 			$rootScope.userTeams = data;
 			authService.loginConfirmed($scope.user);
-		});
+			navSvc.slidePage('/')
+		}).error(function(data) {
+					$rootScope.requestFailed = true;
+				});
 	} ;
 
-	$scope.logout = function() {
+	$rootScope.logout = function() {
+		$rootScope.showLogin = true;
+		$scope.user = {
+			email: null,
+			password: null
+		};
 		$http.defaults.headers.common['Authorization'] = '';
 	}
 

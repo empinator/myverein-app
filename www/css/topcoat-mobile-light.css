@@ -32,42 +32,12 @@ body {
   padding: 0;
   background: #dfe2e2;
   color: #000;
-  font: 16px "Source Sans", helvetica, arial, sans-serif;
   font-weight: 200;
   text-rendering: optimizeLegibility;
 }
 
 .bg-odd {
 	background-color: blue;
-}
-
-.quarter {
-  width: 25%;
-}
-.half {
-  width: 50%;
-}
-.three-quarters {
-  width: 75%;
-}
-.third {
-  width: 33.333%;
-}
-.two-thirds {
-  width: 66.666%;
-}
-.full {
-  width: 100%;
-}
-
-.left {
-  text-align: left;
-}
-.center {
-  text-align: center;
-}
-.right {
-  text-align: right;
 }
 
 .reset-ui {
@@ -97,23 +67,6 @@ body {
   overflow: hidden;
 }
 
-/*
-Copyright 2012 Adobe Systems Inc.;
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-*/
-
-
-/* -------------- */
 
 .gamelist li {
 	padding: 5px;
@@ -154,7 +107,6 @@ limitations under the License.
 }
 
 .gamelist-item .liga {
-	font-size: 0.6em;
 	font-style: italic;
 	padding-bottom: 2px;
 }
@@ -185,6 +137,53 @@ limitations under the License.
 	width: 50%;
 	height: 30%;
 	padding: 10px;
+}
+.loading-overlay .infinite-loop {
 	background: transparent url('../img/loading.gif') no-repeat center;
 }
+.loading-overlay .content button {
+	margin-top: 5%;
+}
 
+#login-holder {
+	background-color: #ffffff;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	margin: auto;
+	z-index: 10000;
+	width: 100%;
+}
+
+#login-holder .content {
+	color: #f5f5f5;
+	margin: auto;
+	margin-top: 30%;
+	width: 80%;
+	height: 30%;
+	padding: 10px;
+}
+
+#header-holder {
+	border-bottom: 1px solid #C2DAEE;
+	height: 65px;
+}
+#header-holder img {
+	height: 64px;
+}
+
+
+
+#header-holder .row div {
+	height: 100%;
+}
+
+.table-like {
+	display: table;
+	text-align: center;
+}
+.table-like div, .table-like span {
+	display: table-cell;
+	vertical-align: middle;
+}
